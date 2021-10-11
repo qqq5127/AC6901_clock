@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDK_flash" />
+		<Option pch_mode="2" />
+		<Option compiler="pi32_lto_compiler" />
+		<Build>
+			<Target title="Release">
+				<Option output="download/post_build/flash/sdk.exe" prefix_auto="0" extension_auto="0" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="pi32_lto_compiler" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-Wno-unused-function" />
+					<Add option="-Wno-unused-const-variable" />
+					<Add option="-ffreestanding" />
+					<Add option="-DNOFLOAT" />
+					<Add option="-DHAVE_MALLOC" />
+					<Add directory="../include_lib" />
+					<Add directory="../include_lib/cpu" />
+					<Add directory="../include_lib/cpu/" />
+					<Add directory="../include_lib/power_manage" />
+					<Add directory="../include_lib/mcpwm" />
+					<Add directory="../include_lib/rtc" />
+					<Add directory="../include_lib/common" />
+					<Add directory="../include_lib/cbuf" />
+					<Add directory="../include_lib/aec" />
+					<Add directory="../include_lib/dec" />
+					<Add directory="../include_lib/echo" />
+					<Add directory="../include_lib/fs" />
+					<Add directory="../include_lib/fs/fat" />
+					<Add directory="../include_lib/fs/sydf" />
+					<Add directory="../include_lib/dev_mg" />
+					<Add directory="../include_lib/sdmmc" />
+					<Add directory="../include_lib/usb" />
+					<Add directory="../include_lib/vm" />
+					<Add directory="../include_lib/speed_pitch" />
+					<Add directory="../include_lib/bluetooth" />
+					<Add directory="../include_lib/encode" />
+					<Add directory="../include_lib/font" />
+					<Add directory="../include_lib/uicon" />
+					<Add directory="include/bluetooth" />
+					<Add directory="include/bluetooth/ble" />
+					<Add directory="include" />
+					<Add directory="include/common" />
+					<Add directory="include/common/music_player" />
+					<Add directory="include/common/file_operate" />
+					<Add directory="include/common/fs" />
+					<Add directory="include/common/pitchshifter" />
+					<Add directory="include/common/audio_sync" />
+					<Add directory="include/common/pc_device" />
+					<Add directory="include/common/record" />
+					<Add directory="include/common/echo" />
+					<Add directory="include/common/fmtx" />
+					<Add directory="include/common/fmtx/qn8007" />
+					<Add directory="include/common/fmtx/qn8027" />
+					<Add directory="include/common/ui" />
+					<Add directory="include/cpu" />
+					<Add directory="include/cpu/" />
+					<Add directory="include/cpu/audio" />
+					<Add directory="include/cpu/power" />
+					<Add directory="include/cpu/key_drv" />
+					<Add directory="include/cpu/led" />
+					<Add directory="include/cpu/nv_mem" />
+					<Add directory="include/cpu/iic" />
+					<Add directory="include/cpu/uart" />
+					<Add directory="include/cpu/ui" />
+					<Add directory="include/cpu/ui/led" />
+					<Add directory="include/cpu/ui/lcd" />
+					<Add directory="include/cpu/ui/task_ui" />
+					<Add directory="task_manager" />
+					<Add directory="task_manager/task_bt" />
+					<Add directory="task_manager/task_idle" />
+					<Add directory="task_manager/task_music" />
+					<Add directory="task_manager/task_linein" />
+					<Add directory="task_manager/task_pc" />
+					<Add directory="task_manager/task_fm" />
+					<Add directory="task_manager/task_rtc" />
+					<Add directory="task_manager/task_echo" />
+					<Add directory="task_manager/task_spdif" />
+					<Add directory="task_manager/task_fm/bk1080" />
+					<Add directory="task_manager/task_fm/fm_inside" />
+					<Add directory="task_manager/task_fm/qn8035" />
+					<Add directory="task_manager/task_fm/rda5807" />
+					<Add directory="cpu/audio/sw_eq_table" />
+					<Add directory="task_manager/task_rec" />
+					<Add directory="auto_test" />
+				</Compiler>
+				<Linker>
+					<Add option="--output-version-info download/post_build/flash/ver.bin" />
+					<Add option="--plugin-opt=-inline-normal-into-special-section=true" />
+					<Add option="-T./download/post_build/flash/sdk.ld" />
+					<Add option="-M=./download/post_build/flash/sdk.map" />
+					<Add option="--start-group" />
+					<Add option="--whole-archive" />
+					<Add option="../include_lib/bluetooth_lib.a" />
+					<Add option="../include_lib/bluetooth/aes_lib_pi32.a &#x09;&#x09;" />
+					<Add option="../include_lib/bluetooth/crc_ibm_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/bluetooth/msbc_enc_dec.a &#x09;&#x09;" />
+					<Add option="--no-whole-archive" />
+					<Add option="../include_lib/rtc_lib.a" />
+					<Add option="../include_lib/power_manage_lib.a" />
+					<Add option="../include_lib/periphy_lib.a" />
+					<Add option="../include_lib/aec_lib.a" />
+					<Add option="../include_lib/audio_lib.a" />
+					<Add option="../include_lib/common_lib.a" />
+					<Add option="../include_lib/font_lib.a" />
+					<Add option="../include_lib/uicon_lib.a" />
+					<Add option="../include_lib/aec/libBtCalling.a" />
+					<Add option="../include_lib/aec/libDAGC.a" />
+					<Add option="../include_lib/aec/libSpeech_dection.a" />
+					<Add option="../include_lib/aec/lib_esco_repair.a" />
+					<Add option="../include_lib/aec/lib_esco_sync.a" />
+					<Add option="../include_lib/dec/sbc_dec_lib.a" />
+					<Add option="../include_lib/dec/udsbc_enc_lib.a" />
+					<Add option="../include_lib/dec/udsbc_dec_lib.a" />
+					<Add option="../include_lib/dec/sbc_dec_lib_for_EngDect.a" />
+					<Add option="../include_lib/dec/wt_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/mp3_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/flac_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/ape_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/wav_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/wma_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/dts_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/aac_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dec/amr_dec_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/dev_mg_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/encode/lib_adpcm_encode.a" />
+					<Add option="../include_lib/encode/lib_mp2_encode.a" />
+					<Add option="../include_lib/encode_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/mcpwm_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/fs_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/fm_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/speed_pitch/lib_pitch_speed.a &#x09;&#x09;" />
+					<Add option="../include_lib/flash_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/audio/libSOSIIR.a &#x09;&#x09;" />
+					<Add option="../include_lib/audio/libLimiter.a &#x09;&#x09;" />
+					<Add option="../include_lib/audio/lib_sync_frame.a &#x09;&#x09;" />
+					<Add option="../include_lib/echo_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/echo/lib_audio_reverb_H.a &#x09;&#x09;" />
+					<Add option="../include_lib/echo/lib_audio_howlingsupression.a &#x09;&#x09;" />
+					<Add option="../include_lib/sdmmc_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/usb_lib.a &#x09;&#x09;" />
+					<Add option="../include_lib/usb/lib_usb_syn.a &#x09;&#x09;" />
+					<Add option="--end-group" />
+				</Linker>
+				<ExtraCommands>
+					<Add after="download\post_build\flash\download_cbp.bat pi32_lto sdk" />
+					<Mode after="always" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add directory="./" />
+		</Compiler>
+		<Unit filename="../include_lib/aec/AnalogAGC.h" />
+		<Unit filename="../include_lib/aec/PLC.h" />
+		<Unit filename="../include_lib/aec/SPD.h" />
+		<Unit filename="../include_lib/aec/aec.h" />
+		<Unit filename="../include_lib/aec/sync_out.h" />
+		<Unit filename="../include_lib/asm_type.h" />
+		<Unit filename="../include_lib/audio/Limiter.h" />
+		<Unit filename="../include_lib/audio/SOS_IIR.h" />
+		<Unit filename="../include_lib/audio/audio_link.h" />
+		<Unit filename="../include_lib/audio/dac_api.h" />
+		<Unit filename="../include_lib/audio/dac_cpu.h" />
+		<Unit filename="../include_lib/audio/eq_api.h" />
+		<Unit filename="../include_lib/audio/ladc_api.h" />
+		<Unit filename="../include_lib/audio/linein_api.h" />
+		<Unit filename="../include_lib/audio/plink_drv.h" />
+		<Unit filename="../include_lib/audio/src_api.h" />
+		<Unit filename="../include_lib/audio/syn_context_api.h" />
+		<Unit filename="../include_lib/audio/syn_tws.h" />
+		<Unit filename="../include_lib/bluetooth/avctp_user.h" />
+		<Unit filename="../include_lib/bluetooth/ble_api.h" />
+		<Unit filename="../include_lib/bluetooth/bluetooth_api.h" />
+		<Unit filename="../include_lib/bluetooth/bt_led.h" />
+		<Unit filename="../include_lib/common/ASCII_lib.h" />
+		<Unit filename="../include_lib/common/app_cfg.h" />
+		<Unit filename="../include_lib/common/circular_buf.h" />
+		<Unit filename="../include_lib/common/common.h" />
+		<Unit filename="../include_lib/common/debug.h" />
+		<Unit filename="../include_lib/common/debug_log.h" />
+		<Unit filename="../include_lib/common/errno-base.h" />
+		<Unit filename="../include_lib/common/fcvt.h" />
+		<Unit filename="../include_lib/common/flash_api.h" />
+		<Unit filename="../include_lib/common/flash_cfg.h" />
+		<Unit filename="../include_lib/common/jiffies.h" />
+		<Unit filename="../include_lib/common/linked_list.h" />
+		<Unit filename="../include_lib/common/list.h" />
+		<Unit filename="../include_lib/common/malloc.h" />
+		<Unit filename="../include_lib/common/printf.h" />
+		<Unit filename="../include_lib/common/resource_manage.h" />
+		<Unit filename="../include_lib/common/semlock.h" />
+		<Unit filename="../include_lib/common/sys_timer.h" />
+		<Unit filename="../include_lib/common/thread.h" />
+		<Unit filename="../include_lib/cpu/audio_param.h" />
+		<Unit filename="../include_lib/cpu/clock_api.h" />
+		<Unit filename="../include_lib/cpu/clock_interface.h" />
+		<Unit filename="../include_lib/cpu/cpu.h" />
+		<Unit filename="../include_lib/cpu/crc_api.h" />
+		<Unit filename="../include_lib/cpu/fft_drv.h" />
+		<Unit filename="../include_lib/cpu/hw_cpu.h" />
+		<Unit filename="../include_lib/cpu/irq_api.h" />
+		<Unit filename="../include_lib/cpu/rand64.h" />
+		<Unit filename="../include_lib/cpu/sfr.h" />
+		<Unit filename="../include_lib/cpu/typedef.h" />
+		<Unit filename="../include_lib/cpu/uart.h" />
+		<Unit filename="../include_lib/cpu/uart_param.h" />
+		<Unit filename="../include_lib/dec/if_decoder_ctrl.h" />
+		<Unit filename="../include_lib/dec/sup_dec_op.h" />
+		<Unit filename="../include_lib/dev_mg/dev_cache.h" />
+		<Unit filename="../include_lib/dev_mg/dev_mg_api.h" />
+		<Unit filename="../include_lib/dev_mg/dev_sd.h" />
+		<Unit filename="../include_lib/dev_mg/dev_usb.h" />
+		<Unit filename="../include_lib/dev_mg/ioctl.h" />
+		<Unit filename="../include_lib/dev_mg/mbr.h" />
+		<Unit filename="../include_lib/echo/echo_deal.h" />
+		<Unit filename="../include_lib/echo/howlingsupression_api.h" />
+		<Unit filename="../include_lib/echo/reverb_api.h" />
+		<Unit filename="../include_lib/encode/audio_enc_api.h" />
+		<Unit filename="../include_lib/encode/encode.h" />
+		<Unit filename="../include_lib/fm/fm_inside_api.h" />
+		<Unit filename="../include_lib/font/font_BIG5.h" />
+		<Unit filename="../include_lib/font/font_GBK.h" />
+		<Unit filename="../include_lib/font/font_KSC.h" />
+		<Unit filename="../include_lib/font/font_OtherLanguage.h" />
+		<Unit filename="../include_lib/font/font_SJIS.h" />
+		<Unit filename="../include_lib/font/font_all.h" />
+		<Unit filename="../include_lib/font/font_area_ctl.h" />
+		<Unit filename="../include_lib/font/font_lib.h" />
+		<Unit filename="../include_lib/font/font_out.h" />
+		<Unit filename="../include_lib/font/font_utf16toansi.h" />
+		<Unit filename="../include_lib/font/utf8_2_unicode.h" />
+		<Unit filename="../include_lib/fs/fat/ff_api.h" />
+		<Unit filename="../include_lib/fs/fat/tff.h" />
+		<Unit filename="../include_lib/fs/fat_io.h" />
+		<Unit filename="../include_lib/fs/fs_io.h" />
+		<Unit filename="../include_lib/fs/syd_io.h" />
+		<Unit filename="../include_lib/fs/sydf/syd_file.h" />
+		<Unit filename="../include_lib/mcpwm/mcpwm_api.h" />
+		<Unit filename="../include_lib/os/embedded/embedded_os.h" />
+		<Unit filename="../include_lib/os/rtos.h" />
+		<Unit filename="../include_lib/os/task_schedule.h" />
+		<Unit filename="../include_lib/os/ucos/os_api.h" />
+		<Unit filename="../include_lib/os/ucos/os_cfg.h" />
+		<Unit filename="../include_lib/os/ucos/os_cpu.h" />
+		<Unit filename="../include_lib/power_manage/power_manage_api.h" />
+		<Unit filename="../include_lib/rtc/rtc_api.h" />
+		<Unit filename="../include_lib/rtc/rtc_api_tools.h" />
+		<Unit filename="../include_lib/sdmmc/sd_host_api.h" />
+		<Unit filename="../include_lib/speed_pitch/ps_for69_api.h" />
+		<Unit filename="../include_lib/uicon/dc_showres.h" />
+		<Unit filename="../include_lib/uicon/gui_msg.h" />
+		<Unit filename="../include_lib/uicon/imb_module.h" />
+		<Unit filename="../include_lib/uicon/lyrics.h" />
+		<Unit filename="../include_lib/uicon/menu.h" />
+		<Unit filename="../include_lib/uicon/ui.h" />
+		<Unit filename="../include_lib/uicon/ui_con.h" />
+		<Unit filename="../include_lib/usb/usb_host_api.h" />
+		<Unit filename="../include_lib/usb/usb_slave_api.h" />
+		<Unit filename="../include_lib/wpc/wpc_api.h" />
+		<Unit filename="auto_test/auto_test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="auto_test/auto_test.h" />
+		<Unit filename="ble_stack/user/att_send.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ble_stack/user/le_client_module.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ble_stack/user/le_server_module.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/trunk/PLC_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/trunk/aec_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/trunk/fcc_test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/user/a2dp_decode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/user/aec_user.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/user/bt_configs_user.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="btstack/user/bt_tws.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/audio_sync/sync_hardware.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/audio_sync/sync_software.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/audio_sync/sync_tws.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/dev_manage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/echo/echo_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/file_operate/file_io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/file_operate/file_operate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/flash_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/fmtx/fmtx_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/fmtx/qn8007/qn8007.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/fmtx/qn8027/qn8027.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/fs/fs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/msg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/music_player/music_decoder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/music_player/music_player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/music_player/warning_tone.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/pc_device/card_reader_io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/pc_device/dev_pc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/pitchshifter/pitchshifter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/record/rec_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/record/rec_file_op.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/record/rec_input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/record/rec_output.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/record/rec_play.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/ui/font_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/ui/uicon_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/wpc/led_ctrl.h" />
+		<Unit filename="common/wpc/wpc_run.h" />
+		<Unit filename="common/wpc/wpc_ui.h" />
+		<Unit filename="cpu/adc_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/alink.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/audio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/audio_stream.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/dac.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/digital_vol.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/eq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/ladc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/pdm_link.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/sin_tab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/src.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/audio/sw_eq_table/sw_eq_table_classic.h" />
+		<Unit filename="cpu/audio/sw_eq_table/sw_eq_table_country.h" />
+		<Unit filename="cpu/audio/sw_eq_table/sw_eq_table_jazz.h" />
+		<Unit filename="cpu/audio/sw_eq_table/sw_eq_table_normal.h" />
+		<Unit filename="cpu/audio/sw_eq_table/sw_eq_table_pop.h" />
+		<Unit filename="cpu/audio/sw_eq_table/sw_eq_table_rock.h" />
+		<Unit filename="cpu/audio/tone.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/board/board.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/board_init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/clock.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/iic/iic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/iic/iic_hw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/iis/wm8978.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/irq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_ad_rtcvdd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_ad_vddio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_encoder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_ir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_tch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/key_drv/key_drv_uart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/led/led.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/led/pwm_led.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/power/charge.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/power/power.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/rotate_dec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/spdif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/uart/uart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/lcd/lcd128X64.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/lcd/lcd_disp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/lcd/lcd_drv_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/lcd/lcd_drv_interface.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/lcd/lcd_spi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/led/led7_drv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/led/led_1888_drv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/bt_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/echo_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/fm_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/linein_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/music_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/pc_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/rec_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/task_ui/rtc_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/ui_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/ui/ui_common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/updata.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu/wdt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="include/bluetooth/PLC_main.h" />
+		<Unit filename="include/bluetooth/a2dp_decode.h" />
+		<Unit filename="include/bluetooth/aec_main.h" />
+		<Unit filename="include/bluetooth/aec_user.h" />
+		<Unit filename="include/bluetooth/ble/att_send.h" />
+		<Unit filename="include/bluetooth/ble/le_client_module.h" />
+		<Unit filename="include/bluetooth/ble/le_server_module.h" />
+		<Unit filename="include/bluetooth/ble/le_user.h" />
+		<Unit filename="include/bluetooth/bt_tws.h" />
+		<Unit filename="include/bluetooth/fcc_test.h" />
+		<Unit filename="include/common/audio_sync/sync_hardware.h" />
+		<Unit filename="include/common/audio_sync/sync_software.h" />
+		<Unit filename="include/common/dev_manage.h" />
+		<Unit filename="include/common/echo/echo_api.h" />
+		<Unit filename="include/common/file_operate/file_io.h" />
+		<Unit filename="include/common/file_operate/file_op.h" />
+		<Unit filename="include/common/file_operate/file_op_err.h" />
+		<Unit filename="include/common/file_operate/file_operate.h" />
+		<Unit filename="include/common/fmtx/fmtx_api.h" />
+		<Unit filename="include/common/fmtx/qn8007/qn8007.h" />
+		<Unit filename="include/common/fmtx/qn8027/qn8027.h" />
+		<Unit filename="include/common/fs/fs.h" />
+		<Unit filename="include/common/includes.h" />
+		<Unit filename="include/common/msg.h" />
+		<Unit filename="include/common/music_player/music_decoder.h" />
+		<Unit filename="include/common/music_player/music_player.h" />
+		<Unit filename="include/common/music_player/warning_tone.h" />
+		<Unit filename="include/common/pc_device/card_reader_io.h" />
+		<Unit filename="include/common/pc_device/dev_pc.h" />
+		<Unit filename="include/common/pitchshifter/pitchshifter.h" />
+		<Unit filename="include/common/record/rec_api.h" />
+		<Unit filename="include/common/record/rec_file_op.h" />
+		<Unit filename="include/common/record/rec_play.h" />
+		<Unit filename="include/common/res_file.h" />
+		<Unit filename="include/common/ui/font_api.h" />
+		<Unit filename="include/common/ui/uicon_api.h" />
+		<Unit filename="include/cpu/adc_api.h" />
+		<Unit filename="include/cpu/audio/alink.h" />
+		<Unit filename="include/cpu/audio/audio.h" />
+		<Unit filename="include/cpu/audio/audio_stream.h" />
+		<Unit filename="include/cpu/audio/dac.h" />
+		<Unit filename="include/cpu/audio/digital_vol.h" />
+		<Unit filename="include/cpu/audio/eq.h" />
+		<Unit filename="include/cpu/audio/eq_tab.h" />
+		<Unit filename="include/cpu/audio/ladc.h" />
+		<Unit filename="include/cpu/audio/pdm_link.h" />
+		<Unit filename="include/cpu/audio/sin_tab.h" />
+		<Unit filename="include/cpu/audio/src.h" />
+		<Unit filename="include/cpu/audio/tone.h" />
+		<Unit filename="include/cpu/board_init.h" />
+		<Unit filename="include/cpu/clock.h" />
+		<Unit filename="include/cpu/iic/iic.h" />
+		<Unit filename="include/cpu/iic/iic_hw.h" />
+		<Unit filename="include/cpu/iis/dac2iis.h" />
+		<Unit filename="include/cpu/iis/wm8978.h" />
+		<Unit filename="include/cpu/irq.h" />
+		<Unit filename="include/cpu/key_drv/key.h" />
+		<Unit filename="include/cpu/key_drv/key_drv_ad.h" />
+		<Unit filename="include/cpu/key_drv/key_drv_encoder.h" />
+		<Unit filename="include/cpu/key_drv/key_drv_io.h" />
+		<Unit filename="include/cpu/key_drv/key_drv_ir.h" />
+		<Unit filename="include/cpu/key_drv/key_drv_tch.h" />
+		<Unit filename="include/cpu/key_drv/key_drv_uart.h" />
+		<Unit filename="include/cpu/key_drv/key_voice.h" />
+		<Unit filename="include/cpu/led/led.h" />
+		<Unit filename="include/cpu/led/pwm_led.h" />
+		<Unit filename="include/cpu/output_channel.h" />
+		<Unit filename="include/cpu/power/charge.h" />
+		<Unit filename="include/cpu/power/power.h" />
+		<Unit filename="include/cpu/rotate_dec.h" />
+		<Unit filename="include/cpu/sys_detect.h" />
+		<Unit filename="include/cpu/timer.h" />
+		<Unit filename="include/cpu/uart/uart_user.h" />
+		<Unit filename="include/cpu/ui/lcd/lcd128X64.h" />
+		<Unit filename="include/cpu/ui/lcd/lcd_disp.h" />
+		<Unit filename="include/cpu/ui/lcd/lcd_drv_api.h" />
+		<Unit filename="include/cpu/ui/lcd/lcd_drv_interface.h" />
+		<Unit filename="include/cpu/ui/lcd/lcd_spi.h" />
+		<Unit filename="include/cpu/ui/led/led7_drv.h" />
+		<Unit filename="include/cpu/ui/led/led_1888_drv.h" />
+		<Unit filename="include/cpu/ui/task_ui/bt_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/echo_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/fm_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/linein_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/music_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/pc_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/rec_ui.h" />
+		<Unit filename="include/cpu/ui/task_ui/rtc_ui.h" />
+		<Unit filename="include/cpu/ui/ui_api.h" />
+		<Unit filename="include/cpu/ui/ui_common.h" />
+		<Unit filename="include/cpu/updata.h" />
+		<Unit filename="include/cpu/update.h" />
+		<Unit filename="include/cpu/wdt.h" />
+		<Unit filename="include/sdk_cfg.h" />
+		<Unit filename="include/sdk_const_define.h" />
+		<Unit filename="task_manager/task_bt/task_bt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_bt/task_bt.h" />
+		<Unit filename="task_manager/task_bt/task_bt_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_bt/task_bt_key.h" />
+		<Unit filename="task_manager/task_common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_common.h" />
+		<Unit filename="task_manager/task_echo/task_echo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_echo/task_echo.h" />
+		<Unit filename="task_manager/task_echo/task_echo_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_echo/task_echo_key.h" />
+		<Unit filename="task_manager/task_fm/bk1080/BK1080.h" />
+		<Unit filename="task_manager/task_fm/bk1080/Bk1080.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/fm_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/fm_api.h" />
+		<Unit filename="task_manager/task_fm/fm_common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/fm_inside/fm_inside.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/fm_inside/fm_inside.h" />
+		<Unit filename="task_manager/task_fm/qn8035/QN8035.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/qn8035/QN8035.h" />
+		<Unit filename="task_manager/task_fm/rda5807/RDA5807.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/rda5807/RDA5807.h" />
+		<Unit filename="task_manager/task_fm/task_fm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/task_fm.h" />
+		<Unit filename="task_manager/task_fm/task_fm_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_fm/task_fm_key.h" />
+		<Unit filename="task_manager/task_idle/task_idle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_idle/task_idle.h" />
+		<Unit filename="task_manager/task_idle/task_idle_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_idle/task_idle_key.h" />
+		<Unit filename="task_manager/task_linein/task_linein.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_linein/task_linein.h" />
+		<Unit filename="task_manager/task_linein/task_linein_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_linein/task_linein_key.h" />
+		<Unit filename="task_manager/task_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_manager.h" />
+		<Unit filename="task_manager/task_music/lyrics_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_music/lyrics_api.h" />
+		<Unit filename="task_manager/task_music/music_decrypt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_music/music_decrypt.h" />
+		<Unit filename="task_manager/task_music/task_music.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_music/task_music.h" />
+		<Unit filename="task_manager/task_music/task_music_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_music/task_music_key.h" />
+		<Unit filename="task_manager/task_pc/task_pc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_pc/task_pc.h" />
+		<Unit filename="task_manager/task_pc/task_pc_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_pc/task_pc_key.h" />
+		<Unit filename="task_manager/task_rec/task_rec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_rec/task_rec.h" />
+		<Unit filename="task_manager/task_rec/task_rec_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_rec/task_rec_key.h" />
+		<Unit filename="task_manager/task_rtc/rtc_setting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_rtc/rtc_setting.h" />
+		<Unit filename="task_manager/task_rtc/task_rtc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_rtc/task_rtc.h" />
+		<Unit filename="task_manager/task_rtc/task_rtc_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_rtc/task_rtc_key.h" />
+		<Unit filename="task_manager/task_spdif/task_spdif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="task_manager/task_spdif/task_spdif.h" />
+		<Unit filename="task_manager/task_spdif/task_spdif_key.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

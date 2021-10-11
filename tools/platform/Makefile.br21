@@ -1,0 +1,77 @@
+
+# --------------Basic Setting-----------------------
+#  
+#配置下载CPU架构(bfin/pi32/pi32_lto)
+export ARCH=pi32_lto
+
+#配置下载目标平台(br16/br17/br20/br21)
+export RELEASE=
+
+#配置项目文件指向(br16/br17/br20/br21)
+export PLATFORM=br21
+
+#配置是否FPGA 验证平台(FPGA/CHIP)
+export TYPE=CHIP
+
+#配置下载匹配(br17_sdk/br20_sdk/br21_sdk)
+export NICKNAME=br21_sdk
+
+# 配置BLE 蓝牙模式(CONTROLLER_MODE/FULL_MODE)
+export LE_MODE=FULL_MODE
+
+#配置下载介质(flash)
+export CODE_SPACE=flash
+
+#配置代码压缩类型(NULL/OTP_DICT)
+export QLZ_TYPE=NULL
+#  
+# --------------Project path Setting-----------------------
+#  
+
+export POST_BUILD_DIR= download$(SLASH)post_build$(SLASH)$(CODE_SPACE)
+
+export DIR_OUTPUT= $(POST_BUILD_DIR)
+
+export LIB_DIR = output
+
+export MAKE_RULE = $(abspath .)/rule.mk
+
+export DEPENDS = $(abspath .)/depend.bat
+
+# - output file
+export EXES= sdk
+OUTPUT_EXES= $(addprefix $(DIR_OUTPUT)$(SLASH), $(EXES))
+export OUTPUT_EXES:= $(addsuffix .exe, $(OUTPUT_EXES))
+
+BUILD_LD=sdk.ld
+BUILD_MAP=sdk.map
+
+export LINKER = \
+-T$(addprefix $(POST_BUILD_DIR)$(SLASH), $(BUILD_LD)) \
+-M=$(addprefix $(POST_BUILD_DIR)$(SLASH), $(BUILD_MAP)) 
+
+export MAKE_RULE = $(abspath .)/rule.mk
+
+export LIBS_PATH=libs
+
+export INCLUDE_LIB_PATH=..$(SLASH)..$(SLASH)include_lib
+
+#default TARGET
+export TARGET=apps
+
+export MAKEDIR = $(shell find $(LIBS_PATH) -maxdepth 1 -type d)
+
+ifeq ($(HOST_OS), windows) 
+CPP=C:\JL\dv10\\bin\dv10-elf-cpp.exe
+endif
+
+ifeq ($(HOST_OS), linux) 
+CPP=cpp
+endif
+#  
+# --------------Architecture & Complier Setting-----------------------
+#  
+-include tools$(SLASH)compiler$(SLASH)Makefile.$(ARCH)
+
+pre_make:
+	@echo "Making... Soc : br21 $(CODE_SPACE)"

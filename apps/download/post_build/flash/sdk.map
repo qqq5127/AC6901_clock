@@ -1,0 +1,2095 @@
+Archive member included to satisfy reference by file (symbol)
+
+../include_lib/bluetooth_lib.a(bredr.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(RF.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(analog.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(btagc.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hci_cmds.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(device_manager.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(memory_pool.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(thread.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(utils.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(analog_bredr.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(RF_bredr.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(test_dut.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(slot_timer.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(fcc_dut.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(prbs9_table.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bredr_bulk.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(link_controller_monitor.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(link_controller.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(au_law_codec.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bt_esco_codec.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(cvsd_codec.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(baseband_utility.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(lmp_custom.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(device_manager.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(baseband_manager.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(Bluetooth_Authentication.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(lmp_updata.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(lmp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(lmp_role.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(baseband_manager_monitor.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bigint.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(Crypto_hash.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hci.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ecdh.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hmac.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bt_led.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(sha256.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(sync_word.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(lmp_monitor.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(endian.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(lmp_dut.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(multi_bd.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hciattach_bt.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(l2cap.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(h4_transport.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bt_audio.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(user_interface.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hci.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(btstack_memory.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(l2cap_signaling.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(a2dp_media_file.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(avctp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(a2dp_source.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hid.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(avrcp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(a2dp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hfp_ag_profile.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(a2dp_sink.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hfp_profile.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(a2dp_tws.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(opp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(vCard.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(avdtp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(spp_profile.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(obex.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(sdp.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(rfcomm.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(sdp_util.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(sdp_master.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(avctp_user.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(remote_device_db.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(remote_search_info.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bt_configs.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(edr_main.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(database_file.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(btstack_task.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(aes_ccm.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(aes_cmac.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(aes128.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ad_parser.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hw_dma.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(btstack_memory.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(RF_ble.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(analog_ble.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(direct_test_dut.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ll_master.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ll_resolve_list.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(link_layer.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ll_white_list.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ll_data_extension.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ll_events.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ll_slave.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ble_hci.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ble_update.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hci_controller.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(l2cap.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(h4_transport.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hci.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(l2cap_signaling.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(att_server.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(att_dispatch.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(sm.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(att.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_lower_transport_layer.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_network_layer.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(gatt_client.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_provision_gatt.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(ancs_client.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_bearer_adv.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_client_provision.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(uECC.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_upper_transport_layer.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_access_layer.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(mesh_pb_adv.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bqb_client.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(user_main.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bqb_main.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(hid_server.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bqb_server.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(le_device_db_memory.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(bigint_mul_core_bc51.o)
+                              (--whole-archive)
+../include_lib/bluetooth_lib.a(version.o)
+                              (--whole-archive)
+../include_lib/bluetooth/aes_lib_pi32.a(aes.o)
+                              (--whole-archive)
+../include_lib/bluetooth/aes_lib_pi32.a(aes_tab.o)
+                              (--whole-archive)
+../include_lib/bluetooth/aes_lib_pi32.a(ccm_memory.o)
+                              (--whole-archive)
+../include_lib/bluetooth/aes_lib_pi32.a(version.o)
+                              (--whole-archive)
+../include_lib/bluetooth/crc_ibm_lib.a(crc16_ibm.o)
+                              (--whole-archive)
+../include_lib/bluetooth/crc_ibm_lib.a(version.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(msbc_fun.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(mtst_sbc.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(sbc_core.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(sbc_enc.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(sbc_primitives.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(sbc_tables.o)
+                              (--whole-archive)
+../include_lib/bluetooth/msbc_enc_dec.a(version.o)
+                              (--whole-archive)
+../include_lib/rtc_lib.a(rtc_driver.o)
+                              obj/Release/apps/cpu/power/power.o (symbol from plugin) (RTC_CLK_INIT)
+../include_lib/rtc_lib.a(rtc_api_tools.o)
+                              obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin) (rtc_calculate_next_day)
+../include_lib/power_manage_lib.a(power_manage_api.o)
+                              obj/Release/apps/cpu/power/power.o (symbol from plugin) (set_lowpower_osc)
+../include_lib/power_manage_lib.a(power_manage.o)
+                              baseband_manager.o (symbol from plugin) (get_lowpower_mode_config)
+../include_lib/power_manage_lib.a(pmu.o)
+                              obj/Release/apps/cpu/power/power.o (symbol from plugin) (PMU_CLK_INIT)
+../include_lib/power_manage_lib.a(power_set.o)
+                              power_manage_api.o (symbol from plugin) (set_pwrmd)
+../include_lib/power_manage_lib.a(p33.o)
+                              obj/Release/apps/cpu/power/power.o (symbol from plugin) (P33_CLK_INIT)
+../include_lib/power_manage_lib.a(powersleep.o)
+                              power_manage_api.o (symbol from plugin) (enter_sleep_mode)
+../include_lib/power_manage_lib.a(power_driver.o)
+                              powersleep.o (symbol from plugin) (btosc_disable_sw)
+../include_lib/power_manage_lib.a(softpoweroff.o)
+                              power_manage_api.o (symbol from plugin) (enter_softpoweroff_mode)
+../include_lib/power_manage_lib.a(power_driver_reg.o)
+                              power_set.o (symbol from plugin) (VDD33TO12_EN)
+../include_lib/power_manage_lib.a(poweroff.o)
+                              power_manage_api.o (symbol from plugin) (enter_poweroff_mode)
+../include_lib/power_manage_lib.a(powerdown.o)
+                              power_driver.o (symbol from plugin) (power_suspend_time)
+../include_lib/periphy_lib.a(irq_api.o)
+                              obj/Release/apps/cpu/irq.o (symbol from plugin) (irq_init)
+../include_lib/periphy_lib.a(rand64.o)
+                              obj/Release/apps/btstack/user/bt_configs_user.o (symbol from plugin) (get_random_number)
+../include_lib/periphy_lib.a(clock_api.o)
+                              obj/Release/apps/cpu/clock.o (symbol from plugin) (clock_init)
+../include_lib/periphy_lib.a(efuse_hw.o)
+                              power_manage_api.o (symbol from plugin) (__efuse_drv)
+../include_lib/periphy_lib.a(crc_api.o)
+                              obj/Release/apps/btstack/user/aec_user.o (symbol from plugin) (crc16)
+../include_lib/periphy_lib.a(clock_driver.o)
+                              clock_api.o (symbol from plugin) (hw_clock_switching)
+../include_lib/periphy_lib.a(startup.o)
+                              (_start)
+../include_lib/periphy_lib.a(irq_driver_asm.o)
+                              obj/Release/apps/common/msg.o (symbol from plugin) (CPU_INT_DIS)
+../include_lib/aec_lib.a(aec.o)
+                              obj/Release/apps/btstack/trunk/aec_main.o (symbol from plugin) (aec_handle_register)
+../include_lib/aec_lib.a(AGC.o)
+                              aec.o (symbol from plugin) (aec_digital_agc)
+../include_lib/aec_lib.a(aec_dbg.o)
+                              aec.o (symbol from plugin) (aec_dbg_init)
+../include_lib/aec_lib.a(PLC.o)
+                              obj/Release/apps/btstack/trunk/PLC_main.o (symbol from plugin) (PLC_query)
+../include_lib/audio_lib.a(soft_eq.o)
+                              obj/Release/apps/cpu/audio/eq.o (symbol from plugin) (soft_eq_drv)
+../include_lib/audio_lib.a(ladc_drv.o)
+                              obj/Release/apps/cpu/audio/ladc.o (symbol from plugin) (ladc_drv_ops)
+../include_lib/audio_lib.a(plink_drv.o)
+                              obj/Release/apps/cpu/audio/pdm_link.o (symbol from plugin) (plnk_drv_ops)
+../include_lib/audio_lib.a(dac_api.o)
+                              obj/Release/apps/cpu/audio/audio.o (symbol from plugin) (dac_automute_param_init)
+../include_lib/audio_lib.a(alink_drv.o)
+                              obj/Release/apps/cpu/audio/alink.o (symbol from plugin) (alink_init)
+../include_lib/audio_lib.a(src_drv.o)
+                              obj/Release/apps/common/audio_sync/sync_hardware.o (symbol from plugin) (src_ops)
+../include_lib/audio_lib.a(dac_drv.o)
+                              ladc_drv.o (symbol from plugin) (ladc_isr_register)
+../include_lib/audio_lib.a(eq_drv.o)
+                              obj/Release/apps/cpu/audio/eq.o (symbol from plugin) (eq_drv)
+../include_lib/audio_lib.a(linein_drv.o)
+                              obj/Release/apps/cpu/audio/ladc.o (symbol from plugin) (linein_channel_open)
+../include_lib/common_lib.a(circular_buf.o)
+                              obj/Release/apps/common/msg.o (symbol from plugin) (cbuf_read)
+../include_lib/common_lib.a(lbuf.o)
+                              link_layer.o (symbol from plugin) (lbuf_get_chunk_num)
+../include_lib/common_lib.a(linked_list.o)
+                              l2cap.o (symbol from plugin) (linked_list_empty)
+../include_lib/common_lib.a(math.o)
+                              obj/Release/apps/cpu/audio/ladc.o (symbol from plugin) (abs)
+../include_lib/common_lib.a(printf-stdarg.o)
+                              obj/Release/apps/cpu/uart/uart.o (symbol from plugin) (register_handle_printf_putchar)
+../include_lib/common_lib.a(resource_manage.o)
+                              a2dp_tws.o (symbol from plugin) (is_res_manage_empty)
+../include_lib/common_lib.a(run_loop.o)
+                              btstack_task.o (symbol from plugin) (__run_loop_register)
+../include_lib/common_lib.a(sys_timer.o)
+                              obj/Release/apps/cpu/power/power.o (symbol from plugin) (get_jiffies)
+../include_lib/common_lib.a(vsprintf.o)
+                              hci.o (symbol from plugin) (__vsprintf_len)
+../include_lib/aec/libBtCalling.a(BT_Calling.o)
+                              aec.o (symbol from plugin) (BlueTooth_Calling_QueryBufSize)
+../include_lib/aec/libBtCalling.a(reentrant_fft.o)
+                              BT_Calling.o (symbol from plugin) (bc51_fft_init)
+../include_lib/aec/libBtCalling.a(rfft_afterprocess_asm.o)
+                              reentrant_fft.o (symbol from plugin) (rfft_afterprocess_asm)
+../include_lib/aec/libBtCalling.a(aecmain.o)
+                              BT_Calling.o (symbol from plugin) (jlaecv2_QuaryBufSize)
+../include_lib/aec/libBtCalling.a(AnalogAGC_Preprocess.o)
+                              BT_Calling.o (symbol from plugin) (AnalogAGC_Preprocess_init)
+../include_lib/aec/libBtCalling.a(ns_core.o)
+                              BT_Calling.o (symbol from plugin) (WebRtcNs_InitCore)
+../include_lib/aec/libBtCalling.a(aec_core.o)
+                              aecmain.o (symbol from plugin) (WebRtcAec_InitAec)
+../include_lib/aec/libBtCalling.a(aec_rdft.o)
+                              aec_core.o (symbol from plugin) (aec_rdft_forward_128_int)
+../include_lib/aec/lib_esco_repair.a(repair_core.o)
+                              PLC.o (symbol from plugin) (get_repair_api)
+../include_lib/aec/lib_esco_sync.a(syn_autolink.o)
+                              aec.o (symbol from plugin) (get_syn_autolink_api)
+../include_lib/dec/sbc_dec_lib.a(mtst_sbc.o)
+                              obj/Release/apps/btstack/user/a2dp_decode.o (symbol from plugin) (get_sbcd_ops)
+../include_lib/dec/sbc_dec_lib.a(sbc_core.o)
+                              ../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o) (sbc_crc8_u)
+../include_lib/dec/sbc_dec_lib.a(sbc_dec.o)
+                              mtst_sbc.o (symbol from plugin) (sbc_reset_t)
+../include_lib/dec/sbc_dec_lib.a(sbc_fun.o)
+                              sbc_core.o (symbol from plugin) (get_dec_bits_u)
+../include_lib/dec/sbc_dec_lib.a(sbc_tables.o)
+                              sbc_core.o (symbol from plugin) (crc8_table)
+../include_lib/dec/udsbc_enc_lib.a(sbcdec.o)
+                              a2dp_tws.o (symbol from plugin) (get_udsbc_enc_ops)
+../include_lib/dec/udsbc_enc_lib.a(sbc_norm.o)
+                              sbcdec.o (symbol from plugin) (pcm_sbc_enc_loop)
+../include_lib/dec/udsbc_enc_lib.a(sbc_tables.o)
+                              sbc_norm.o (symbol from plugin) (analysis_pcm_fixed8_simd_even_d)
+../include_lib/dec/udsbc_enc_lib.a(sbc.o)
+                              sbc_norm.o (symbol from plugin) (unsbc_calculate_bits)
+../include_lib/dec/sbc_dec_lib_for_EngDect.a(sbc_dec.o)
+                              a2dp.o (symbol from plugin) (sbc_dec_init_only_engd)
+../include_lib/dec/sbc_dec_lib_for_EngDect.a(mtst_sbc.o)
+                              sbc_dec.o (symbol from plugin) (sbc_dec_fileStatus_d_engd)
+../include_lib/dec/sbc_dec_lib_for_EngDect.a(sbc_core.o)
+                              sbc_dec.o (symbol from plugin) (sbc_unpack_frame_d_engd)
+../include_lib/dec/sbc_dec_lib_for_EngDect.a(sbc_tables.o)
+                              sbc_core.o (symbol from plugin) (crc_table_d)
+../include_lib/dec/wt_dec_lib.a(warning_tone.o)
+                              obj/Release/apps/common/music_player/warning_tone.o (symbol from plugin) (get_wt_ops)
+../include_lib/dec/mp3_dec_lib.a(mtst_mp3.o)
+                              obj/Release/apps/common/music_player/music_player.o (symbol from plugin) (get_mp3_ops)
+../include_lib/dec/mp3_dec_lib.a(asf.o)
+                              mtst_mp3.o (symbol from plugin) (mp3asf_read_header)
+../include_lib/dec/mp3_dec_lib.a(mpeg_synth.o)
+                              mtst_mp3.o (symbol from plugin) (mpegaudio_synth_full)
+../include_lib/dec/mp3_dec_lib.a(layer12.o)
+                              mtst_mp3.o (symbol from plugin) (mad_layer_I)
+../include_lib/dec/mp3_dec_lib.a(mpegaudio.o)
+                              mtst_mp3.o (symbol from plugin) (get_bit_stream_len)
+../include_lib/dec/mp3_dec_lib.a(ID3tag_skip.o)
+                              mtst_mp3.o (symbol from plugin) (id3_tag_query)
+../include_lib/dec/mp3_dec_lib.a(layer3.o)
+                              mpegaudio.o (symbol from plugin) (III_sideinfo)
+../include_lib/dec/mp3_dec_lib.a(huffman.o)
+                              layer3.o (symbol from plugin) (mad_huff_quad_table)
+../include_lib/dec/mp3_dec_lib.a(mpeg_ctab.o)
+                              mpegaudio.o (symbol from plugin) (mp3_mpa_freq_tab)
+../include_lib/dec/mp3_dec_lib.a(mp3_asm_subfun.o)
+                              layer3.o (symbol from plugin) (III_freqinver_asm)
+../include_lib/dec/flac_dec_lib.a(mtst_flac.o)
+                              obj/Release/apps/common/music_player/music_player.o (symbol from plugin) (get_flac_ops)
+../include_lib/dec/flac_dec_lib.a(flacdec.o)
+                              mtst_flac.o (symbol from plugin) (flac_init)
+../include_lib/dec/ape_dec_lib.a(mtst_ape.o)
+                              obj/Release/apps/common/music_player/music_player.o (symbol from plugin) (get_ape_ops)
+../include_lib/dec/ape_dec_lib.a(apedec.o)
+                              mtst_ape.o (symbol from plugin) (ape_read_seektab)
+../include_lib/dec/ape_dec_lib.a(dv_ape.o)
+                              apedec.o (symbol from plugin) (do_apply_filter)
+../include_lib/dec/wav_dec_lib.a(testwav.o)
+                              obj/Release/apps/common/music_player/music_player.o (symbol from plugin) (get_wav_ops)
+../include_lib/dec/wav_dec_lib.a(wavdec_api.o)
+                              testwav.o (symbol from plugin) (wf_file_api_fun)
+../include_lib/dec/wav_dec_lib.a(msadpcmdec.o)
+                              wavdec_api.o (symbol from plugin) (ms_adpcm_decoder)
+../include_lib/dec/wav_dec_lib.a(ima_adpcm.o)
+                              wavdec_api.o (symbol from plugin) (ima_adpcm_decoder)
+../include_lib/dec/wma_dec_lib.a(mtst_wma.o)
+                              obj/Release/apps/common/music_player/music_player.o (symbol from plugin) (get_wma_ops)
+../include_lib/dec/wma_dec_lib.a(wma.o)
+                              mtst_wma.o (symbol from plugin) (wma_decode_init)
+../include_lib/dec/wma_dec_lib.a(asf.o)
+                              mtst_wma.o (symbol from plugin) (asf_read_header)
+../include_lib/dec/wma_dec_lib.a(bitstream.o)
+                              mtst_wma.o (symbol from plugin) (Zwma_type_check)
+../include_lib/dec/wma_dec_lib.a(wma_tab.o)
+                              mtst_wma.o (symbol from plugin) (ff_mpa_freq_tab_wma)
+../include_lib/dec/wma_dec_lib.a(mdct.o)
+                              wma.o (symbol from plugin) (wma_dec_clear)
+../include_lib/dec/wma_dec_lib.a(wma_huff.o)
+                              wma.o (symbol from plugin) (coef0_huff)
+../include_lib/dec/wma_dec_lib.a(wmadec.o)
+                              wma.o (symbol from plugin) (wma_av_log2)
+../include_lib/dec/wma_dec_lib.a(aviobuf.o)
+                              wmadec.o (symbol from plugin) (wmafillbuf)
+../include_lib/dev_mg_lib.a(dev_mg_api.o)
+                              obj/Release/apps/common/dev_manage.o (symbol from plugin) (dev_open)
+../include_lib/dev_mg_lib.a(mbr.o)
+                              obj/Release/apps/common/dev_manage.o (symbol from plugin) (mbr_scan)
+../include_lib/dev_mg_lib.a(dev_cache.o)
+                              obj/Release/apps/common/dev_manage.o (symbol from plugin) (dev_reg_cache)
+../include_lib/dev_mg_lib.a(dev_usb.o)
+                              obj/Release/apps/common/dev_manage.o (symbol from plugin) (usb_set_monut_parm)
+../include_lib/encode_lib.a(encode.o)
+                              obj/Release/apps/common/record/rec_input.o (symbol from plugin) (rec_malloc)
+../include_lib/fs_lib.a(fs_io.o)
+                              obj/Release/apps/common/fs/fs.o (symbol from plugin) (fs_init)
+../include_lib/fs_lib.a(syd_io.o)
+                              obj/Release/apps/common/fs/fs.o (symbol from plugin) (syd_init)
+../include_lib/fs_lib.a(syd_file.o)
+                              syd_io.o (symbol from plugin) (set_sydf_header_base)
+../include_lib/fs_lib.a(fat_io.o)
+                              obj/Release/apps/task_manager/task_music/task_music.o (symbol from plugin) (fat_mem_init)
+../include_lib/fs_lib.a(ff_api.o)
+                              fat_io.o (symbol from plugin) (set_swin_buf)
+../include_lib/fs_lib.a(tff.o)
+                              ff_api.o (symbol from plugin) (decode_lfn)
+../include_lib/flash_lib.a(vm_api.o)
+                              obj/Release/apps/common/flash_api.o (symbol from plugin) (set_g_sys_cfg)
+../include_lib/flash_lib.a(cache_vm.o)
+                              obj/Release/apps/cpu/audio/audio.o (symbol from plugin) (get_vm_statu)
+../include_lib/flash_lib.a(winbond_flash.o)
+                              cache_vm.o (symbol from plugin) (spiflash_continuous_read_mode_reset)
+../include_lib/flash_lib.a(icache_hw.o)
+                              cache_vm.o (symbol from plugin) (__icache_drv)
+../include_lib/flash_lib.a(spi_hw.o)
+                              cache_vm.o (symbol from plugin) (__spi0_drv)
+../include_lib/audio/libSOSIIR.a(SOSIIR.o)
+                              soft_eq.o (symbol from plugin) (SOSIIR)
+../include_lib/audio/libLimiter.a(Limiter.o)
+                              soft_eq.o (symbol from plugin) (Limiter_Init)
+../include_lib/audio/libLimiter.a(QuasiFloat.o)
+                              Limiter.o (symbol from plugin) (Integer2QuasiFloat)
+../include_lib/audio/lib_sync_frame.a(syn_core.o)
+                              obj/Release/apps/common/audio_sync/sync_software.o (symbol from plugin) (get_sync_unit_api)
+../include_lib/audio/lib_sync_frame.a(datahandler.o)
+                              syn_core.o (symbol from plugin) (sync_datalen_handler)
+../include_lib/echo_lib.a(echo_deal.o)
+                              obj/Release/apps/common/echo/echo_api.o (symbol from plugin) (echo_pitch_set_lib)
+../include_lib/echo/lib_audio_reverb_H.a(reverb_main.o)
+                              echo_deal.o (symbol from plugin) (get_reverb_func_api)
+../include_lib/echo/lib_audio_reverb_H.a(adpcmNohead.o)
+                              reverb_main.o (symbol from plugin) (get_delay_bufv)
+../include_lib/echo/lib_audio_reverb_H.a(resample_down.o)
+                              reverb_main.o (symbol from plugin) (change_resample8_coeff)
+../include_lib/echo/lib_audio_howlingsupression.a(shift_anysr.o)
+                              echo_deal.o (symbol from plugin) (get_howlingsupression_func_api)
+../include_lib/echo/lib_audio_howlingsupression.a(searching.o)
+                              shift_anysr.o (symbol from plugin) (search_data_init)
+../include_lib/sdmmc_lib.a(sdmmc_det.o)
+                              dev_mg_api.o (symbol from plugin) (get_sd_online_tentacle)
+../include_lib/sdmmc_lib.a(sd_host_hw.o)
+                              sdmmc_det.o (symbol from plugin) (sd_cmd_check)
+../include_lib/sdmmc_lib.a(sd_chk_ctl.o)
+                              sdmmc_det.o (symbol from plugin) (sd_chk_ctl)
+../include_lib/sdmmc_lib.a(sd_send_command.o)
+                              sd_host_hw.o (symbol from plugin) (sd_send_command_isr)
+../include_lib/sdmmc_lib.a(sd_host_status.o)
+                              sdmmc_det.o (symbol from plugin) (sd_host_status)
+../include_lib/sdmmc_lib.a(sd_global_var.o)
+                              sd_send_command.o (symbol from plugin) (sd0_cmd_buf)
+../include_lib/sdmmc_lib.a(sd_driver.o)
+                              sdmmc_det.o (symbol from plugin) (__sd_drv)
+../include_lib/sdmmc_lib.a(sdmmc_init.o)
+                              sdmmc_det.o (symbol from plugin) (sd_lowlevel_init)
+../include_lib/sdmmc_lib.a(sdmmc_host_set_bus_width.o)
+                              sdmmc_init.o (symbol from plugin) (sd_set_bus_width)
+../include_lib/sdmmc_lib.a(sd_host_timeout.o)
+                              sd_chk_ctl.o (symbol from plugin) (sd_host_timeout)
+../include_lib/sdmmc_lib.a(sdmmc_host_set_hispeed.o)
+                              sdmmc_init.o (symbol from plugin) (sd_set_hispeed)
+../include_lib/sdmmc_lib.a(sd_host_mount.o)
+                              sdmmc_init.o (symbol from plugin) (sd_mount)
+../include_lib/sdmmc_lib.a(sd_host_init.o)
+                              sdmmc_init.o (symbol from plugin) (sd_host_init)
+../include_lib/sdmmc_lib.a(sd_init.o)
+                              sd_host_mount.o (symbol from plugin) (sd_init_card)
+../include_lib/sdmmc_lib.a(sd_host_set_hispeed.o)
+                              sdmmc_host_set_hispeed.o (symbol from plugin) (sd_host_set_hispeed)
+../include_lib/sdmmc_lib.a(sd_host_send_if_cond.o)
+                              sd_init.o (symbol from plugin) (sd_host_send_if_cond)
+../include_lib/sdmmc_lib.a(mmc_host_send_rca.o)
+                              sd_init.o (symbol from plugin) (mmc_host_send_rca)
+../include_lib/sdmmc_lib.a(mmc_host_set_bus_width.o)
+                              sdmmc_host_set_bus_width.o (symbol from plugin) (mmc_host_set_bus_width)
+../include_lib/sdmmc_lib.a(sd_send_scr.o)
+                              sdmmc_host_set_bus_width.o (symbol from plugin) (sd_send_scr)
+../include_lib/sdmmc_lib.a(sd_host_switch_func.o)
+                              sd_host_set_hispeed.o (symbol from plugin) (sd_host_switch_func)
+../include_lib/sdmmc_lib.a(sd_host_reset.o)
+                              sd_init.o (symbol from plugin) (sd_host_reset)
+../include_lib/sdmmc_lib.a(mmc_host_set_hispeed.o)
+                              sdmmc_host_set_hispeed.o (symbol from plugin) (mmc_host_set_hispeed)
+../include_lib/sdmmc_lib.a(sd_host_send_rca.o)
+                              sd_init.o (symbol from plugin) (sd_host_send_rca)
+../include_lib/sdmmc_lib.a(sd_host_all_send_cid.o)
+                              sd_init.o (symbol from plugin) (sd_host_all_send_cid)
+../include_lib/sdmmc_lib.a(sd_host_send_csd.o)
+                              sd_init.o (symbol from plugin) (sd_host_send_csd)
+../include_lib/sdmmc_lib.a(sd_select_card.o)
+                              sd_init.o (symbol from plugin) (sd_select_card)
+../include_lib/sdmmc_lib.a(sd_host_sd_status.o)
+                              sdmmc_host_set_bus_width.o (symbol from plugin) (sd_host_sd_status)
+../include_lib/sdmmc_lib.a(sd_host_set_bus_width.o)
+                              sdmmc_host_set_bus_width.o (symbol from plugin) (sd_host_set_bus_width)
+../include_lib/sdmmc_lib.a(sd_host_app_cmd.o)
+                              sd_send_scr.o (symbol from plugin) (sd_host_app_cmd)
+../include_lib/sdmmc_lib.a(sd_wait_idle.o)
+                              sdmmc_host_set_bus_width.o (symbol from plugin) (sd_wait_idle)
+../include_lib/sdmmc_lib.a(sd_host_reg.o)
+                              sd_driver.o (symbol from plugin) (SD_CMD_MODE)
+../include_lib/sdmmc_lib.a(sd_host_identification.o)
+                              sd_init.o (symbol from plugin) (sd_host_identification)
+../include_lib/sdmmc_lib.a(mmc_host_send_op_cond.o)
+                              sd_host_identification.o (symbol from plugin) (mmc_host_send_op_cond)
+../include_lib/sdmmc_lib.a(sd_host_send_op_cond.o)
+                              sd_host_identification.o (symbol from plugin) (sd_host_send_op_cond)
+../include_lib/usb_lib.a(usb_driver.o)
+                              dev_usb.o (symbol from plugin) (set_usb_io_resume)
+../include_lib/usb_lib.a(usb_reg.o)
+                              usb_driver.o (symbol from plugin) (read_usb_reg)
+../include_lib/usb_lib.a(usb_global_var.o)
+                              dev_usb.o (symbol from plugin) (usb_host_g_var_need_buf)
+../include_lib/usb_lib.a(usb_read_remain.o)
+                              dev_usb.o (symbol from plugin) (usb_read_remain)
+../include_lib/usb_lib.a(usb_host_mount.o)
+                              dev_usb.o (symbol from plugin) (usb_host_mount)
+../include_lib/usb_lib.a(usb_host_write.o)
+                              dev_usb.o (symbol from plugin) (usb_host_write)
+../include_lib/usb_lib.a(usb_suspend.o)
+                              dev_usb.o (symbol from plugin) (usb_suspend)
+../include_lib/usb_lib.a(usb_host_unmount.o)
+                              dev_usb.o (symbol from plugin) (usb_host_unmount)
+../include_lib/usb_lib.a(usb_host_read.o)
+                              dev_usb.o (symbol from plugin) (usb_host_read)
+../include_lib/usb_lib.a(USB_Host_dev_enum_libs.o)
+                              usb_host_mount.o (symbol from plugin) (USB_Host_dev_enum)
+../include_lib/usb_lib.a(usb_control_transfers.o)
+                              USB_Host_dev_enum_libs.o (symbol from plugin) (usb_control_transfers)
+../include_lib/usb_lib.a(usb_descriptor_parser.o)
+                              USB_Host_dev_enum_libs.o (symbol from plugin) (usb_descriptor_parser)
+../include_lib/usb_lib.a(usbh_msd_enum.o)
+                              usb_host_mount.o (symbol from plugin) (usbh_msd_enum)
+../include_lib/usb_lib.a(usb_ufi_read10.o)
+                              usb_host_read.o (symbol from plugin) (usb_ufi_read10)
+../include_lib/usb_lib.a(CBW_init.o)
+                              usb_ufi_read10.o (symbol from plugin) (CBW_init)
+../include_lib/usb_lib.a(usb_ufi_write10.o)
+                              usb_host_write.o (symbol from plugin) (usb_ufi_write10)
+../include_lib/usb_lib.a(usb_bulk_only_receive.o)
+                              usb_read_remain.o (symbol from plugin) (usb_bulk_only_receive)
+../include_lib/usb_lib.a(usb_bulk_only_transfer.o)
+                              usb_host_read.o (symbol from plugin) (usb_bulk_only_transfer)
+../include_lib/usb_lib.a(usbh_msd_parser.o)
+                              usb_descriptor_parser.o (symbol from plugin) (usbh_msd_parser)
+../include_lib/usb_lib.a(usb_host_scsi_cmd_libs.o)
+                              usbh_msd_enum.o (symbol from plugin) (USB_UFI_Inquiry)
+../include_lib/usb_lib.a(usb_host_reg_libs.o)
+                              usb_host_mount.o (symbol from plugin) (usb_host_reset)
+../include_lib/usb_lib.a(usb_host_status.o)
+                              dev_usb.o (symbol from plugin) (usb_get_capacity)
+../include_lib/usb_lib.a(usb_online.o)
+                              dev_mg_api.o (symbol from plugin) (get_usb_online_tentacle)
+../include_lib/usb_lib.a(usb_host_timeout.o)
+                              usb_bulk_only_receive.o (symbol from plugin) (usb_host_timeout)
+../include_lib/usb_lib.a(get_max_LUN.o)
+                              usbh_msd_enum.o (symbol from plugin) (get_max_LUN)
+../include_lib/usb_lib.a(usb_ctlXfer.o)
+                              usb_control_transfers.o (symbol from plugin) (usb_ctlXfer)
+../include_lib/usb_lib.a(usb_host_clear_feature.o)
+                              usbh_msd_enum.o (symbol from plugin) (usb_host_clear_feature)
+../include_lib/usb_lib.a(usb_bulk_only_send.o)
+                              usb_bulk_only_transfer.o (symbol from plugin) (usb_bulk_only_send)
+../include_lib/dev_mg_lib.a(dev_sd.o)
+                              sd_host_identification.o (symbol from plugin) (SD_DELAY_MS)
+../include_lib/encode/lib_adpcm_encode.a(en_adpcm_test.o)
+                              encode.o (symbol from plugin) (get_enadpcm_ops)
+../include_lib/encode/lib_adpcm_encode.a(en_adpcm.o)
+                              en_adpcm_test.o (symbol from plugin) (adpcm_coder)
+../include_lib/encode/lib_mp2_encode.a(mp2_test.o)
+                              encode.o (symbol from plugin) (get_mp2_ops)
+../include_lib/encode/lib_mp2_encode.a(mp2dsp.o)
+                              mp2_test.o (symbol from plugin) (mp2_filter)
+../include_lib/encode/lib_mp2_encode.a(encodemp2.o)
+                              mp2_test.o (symbol from plugin) (compute_bit_allocation)
+../include_lib/sdmmc_lib.a(sd_controller_interface.o)
+                              dev_sd.o (symbol from plugin) (get_sd_dev_busy_status)
+../include_lib/sdmmc_lib.a(sd_host_unmount.o)
+                              sd_controller_interface.o (symbol from plugin) (sd_unmount)
+../include_lib/sdmmc_lib.a(sd_host_read_api.o)
+                              sd_controller_interface.o (symbol from plugin) (sd_read_api)
+../include_lib/sdmmc_lib.a(suspend_sdmmc.o)
+                              dev_sd.o (symbol from plugin) (sd_suspend)
+../include_lib/sdmmc_lib.a(sd_host_write_api.o)
+                              sd_controller_interface.o (symbol from plugin) (sd_write_api)
+../include_lib/sdmmc_lib.a(sd_host_write.o)
+                              sd_host_write_api.o (symbol from plugin) (sd_write)
+../include_lib/sdmmc_lib.a(sd_host_stop_trans.o)
+                              suspend_sdmmc.o (symbol from plugin) (sd_host_stop_trans)
+../include_lib/sdmmc_lib.a(sd_write_start.o)
+                              sd_host_write.o (symbol from plugin) (sd_write_start)
+../include_lib/sdmmc_lib.a(sd_host_read.o)
+                              sd_host_read_api.o (symbol from plugin) (sd_read)
+../include_lib/sdmmc_lib.a(sd_read_start.o)
+                              sd_host_read.o (symbol from plugin) (sd_read_start)
+C:\JL\pi32\lib\libc.a(lib_a-ctype_.o)
+                              vCard.o (symbol from plugin) (__ctype_ptr__)
+C:\JL\pi32\lib\libc.a(lib_a-memcmp.o)
+                              obj/Release/apps/btstack/user/bt_configs_user.o (symbol from plugin) (memcmp)
+C:\JL\pi32\lib\libc.a(lib_a-memcpy.o)
+                              ../include_lib/bluetooth/msbc_enc_dec.a(sbc_primitives.o) (memcpy)
+C:\JL\pi32\lib\libc.a(lib_a-memset.o)
+                              ../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o) (memset)
+C:\JL\pi32\lib\libc.a(lib_a-strcasecmp.o)
+                              vCard.o (symbol from plugin) (strcasecmp)
+C:\JL\pi32\lib\libc.a(lib_a-strchr.o)
+                              vCard.o (symbol from plugin) (strchr)
+C:\JL\pi32\lib\libc.a(lib_a-strcmp.o)
+                              obj/Release/apps/btstack/user/a2dp_decode.o (symbol from plugin) (strcmp)
+C:\JL\pi32\lib\libc.a(lib_a-strcpy.o)
+                              hfp_profile.o (symbol from plugin) (strcpy)
+C:\JL\pi32\lib\libc.a(lib_a-strlen.o)
+                              obj/Release/apps/common/music_player/music_decoder.o (symbol from plugin) (strlen)
+C:\JL\pi32\lib\libc.a(lib_a-strncmp.o)
+                              vCard.o (symbol from plugin) (strncmp)
+C:\JL\pi32\lib\libc.a(lib_a-strstr.o)
+                              vCard.o (symbol from plugin) (strstr)
+C:\JL\pi32\lib\libcompiler-rt.a(lshrdi3.o)
+                              ../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o) (__lshrdi3)
+C:\JL\pi32\lib\libcompiler-rt.a(ashldi3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__ashldi3)
+C:\JL\pi32\lib\libcompiler-rt.a(divdf3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__divdf3)
+C:\JL\pi32\lib\libcompiler-rt.a(divdi3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__divdi3)
+C:\JL\pi32\lib\libcompiler-rt.a(divsf3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__divsf3)
+C:\JL\pi32\lib\libcompiler-rt.a(fixdfsi.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__fixdfsi)
+C:\JL\pi32\lib\libcompiler-rt.a(fixsfsi.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__fixsfsi)
+C:\JL\pi32\lib\libcompiler-rt.a(floatsidf.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__floatsidf)
+C:\JL\pi32\lib\libcompiler-rt.a(floatunsidf.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__floatunsidf)
+C:\JL\pi32\lib\libcompiler-rt.a(floatunsisf.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__floatunsisf)
+C:\JL\pi32\lib\libcompiler-rt.a(muldf3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__muldf3)
+C:\JL\pi32\lib\libcompiler-rt.a(muldi3.o)
+                              C:\JL\pi32\lib\libcompiler-rt.a(divdf3.o) (__muldi3)
+C:\JL\pi32\lib\libcompiler-rt.a(subdf3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__subdf3)
+C:\JL\pi32\lib\libcompiler-rt.a(udivdi3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__udivdi3)
+C:\JL\pi32\lib\libcompiler-rt.a(udivmoddi4.o)
+                              C:\JL\pi32\lib\libcompiler-rt.a(divdi3.o) (__udivmoddi4)
+C:\JL\pi32\lib\libcompiler-rt.a(umoddi3.o)
+                              C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o (__umoddi3)
+C:\JL\pi32\lib\libcompiler-rt.a(adddf3.o)
+                              C:\JL\pi32\lib\libcompiler-rt.a(subdf3.o) (__adddf3)
+
+Allocating common symbols
+Common symbol       size              file
+
+vm_cache            0x0               obj/Release/apps/common/flash_api.o (symbol from plugin)
+src_t               0x0               obj/Release/apps/cpu/audio/src.o (symbol from plugin)
+eq_arg              0x0               obj/Release/apps/cpu/audio/eq.o (symbol from plugin)
+bcd_number          0x0               obj/Release/apps/cpu/ui/ui_common.o (symbol from plugin)
+ut_dma_wr_cnt       0x0               obj/Release/apps/cpu/uart/uart.o (symbol from plugin)
+music_decoder_hdl   0x0               obj/Release/apps/common/music_player/music_decoder.o (symbol from plugin)
+bt_ui_var           0x0               obj/Release/apps/task_manager/task_bt/task_bt.o (symbol from plugin)
+ui_disp_api         0x0               obj/Release/apps/cpu/ui/ui_api.o (symbol from plugin)
+plnk_ops            0x0               obj/Release/apps/cpu/audio/pdm_link.o (symbol from plugin)
+fm_station_all_temp
+                    0x0               obj/Release/apps/task_manager/task_fm/task_fm.o (symbol from plugin)
+sound               0x0               obj/Release/apps/cpu/audio/audio.o (symbol from plugin)
+osc_internal_data   0x0               obj/Release/apps/btstack/user/bt_configs_user.o (symbol from plugin)
+coordinate_temp     0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+led7_var            0x0               obj/Release/apps/cpu/ui/led/led7_drv.o (symbol from plugin)
+dac                 0x0               obj/Release/apps/cpu/audio/dac.o (symbol from plugin)
+dac_param           0x0               obj/Release/apps/cpu/audio/dac.o (symbol from plugin)
+low_pwr_setup       0x0               obj/Release/apps/cpu/power/power.o (symbol from plugin)
+usb                 0x0               obj/Release/apps/common/dev_manage.o (symbol from plugin)
+cache               0x0               obj/Release/apps/common/dev_manage.o (symbol from plugin)
+current_time        0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+adc_value           0x0               obj/Release/apps/cpu/adc_api.o (symbol from plugin)
+aux_pp_flag         0x0               obj/Release/apps/task_manager/task_linein/task_linein.o (symbol from plugin)
+fm_station_cur_temp
+                    0x0               obj/Release/apps/task_manager/task_fm/task_fm.o (symbol from plugin)
+spd_param           0x0               obj/Release/apps/btstack/trunk/aec_main.o (symbol from plugin)
+aec_online          0x0               obj/Release/apps/btstack/user/aec_user.o (symbol from plugin)
+hw_src              0x0               obj/Release/apps/cpu/audio/src.o (symbol from plugin)
+param               0x0               obj/Release/apps/cpu/audio/ladc.o (symbol from plugin)
+tws_linein_parm     0x0               obj/Release/apps/btstack/user/bt_tws.o (symbol from plugin)
+sys_volume_temp     0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+read_dat            0x0               obj/Release/apps/task_manager/task_fm/rda5807/RDA5807.o (symbol from plugin)
+rtc_set             0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+current_alarm       0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+nwt_ops             0x0               obj/Release/apps/common/music_player/warning_tone.o (symbol from plugin)
+music_ui            0x0               obj/Release/apps/task_manager/task_music/task_music.o (symbol from plugin)
+fm_fre_cur_temp     0x0               obj/Release/apps/task_manager/task_fm/task_fm.o (symbol from plugin)
+fm_pp_flag          0x0               obj/Release/apps/task_manager/task_fm/task_fm.o (symbol from plugin)
+tone_var            0x0               obj/Release/apps/common/music_player/warning_tone.o (symbol from plugin)
+rda5807_dat         0x0               obj/Release/apps/task_manager/task_fm/rda5807/RDA5807.o (symbol from plugin)
+curr_tone_parm      0x0               obj/Release/apps/common/music_player/warning_tone.o (symbol from plugin)
+wavheader           0x2c              ../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o)
+eq_cfg              0x0               obj/Release/apps/cpu/audio/eq.o (symbol from plugin)
+pwr_setup           0x0               obj/Release/apps/cpu/power/power.o (symbol from plugin)
+sd0                 0x0               obj/Release/apps/common/dev_manage.o (symbol from plugin)
+fm_type             0x0               obj/Release/apps/task_manager/task_fm/rda5807/RDA5807.o (symbol from plugin)
+current_alarm_temp  0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+current_alarm2      0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+sin_tone_var        0x0               obj/Release/apps/cpu/audio/tone.o (symbol from plugin)
+alm_vol_set_sys_volume_temp
+                    0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+sw_eq_param         0x0               obj/Release/apps/cpu/audio/eq.o (symbol from plugin)
+rtc_time_set_temp   0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+UI_var              0x0               obj/Release/apps/cpu/ui/ui_api.o (symbol from plugin)
+sd1                 0x0               obj/Release/apps/common/dev_manage.o (symbol from plugin)
+current_alarm2_temp
+                    0x0               obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+alink_parm          0x0               obj/Release/apps/cpu/audio/alink.o (symbol from plugin)
+Ht1621Data          0x0               obj/Release/apps/cpu/ui/led/led7_drv.o (symbol from plugin)
+sw_eq               0x0               obj/Release/apps/cpu/audio/eq.o (symbol from plugin)
+args                0x0               obj/Release/apps/cpu/board/board.o (symbol from plugin)
+fm_fre_buf          0x0               obj/Release/apps/task_manager/task_fm/task_fm.o (symbol from plugin)
+decoder_io_p        0x0               obj/Release/apps/common/music_player/warning_tone.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 obj/Release/apps/auto_test/auto_test.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/ble_stack/user/att_send.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/ble_stack/user/le_client_module.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/ble_stack/user/le_server_module.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/trunk/aec_main.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/trunk/fcc_test.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/trunk/PLC_main.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/user/a2dp_decode.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/user/aec_user.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/user/bt_configs_user.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/btstack/user/bt_tws.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/audio_sync/sync_hardware.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/audio_sync/sync_software.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/audio_sync/sync_tws.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/common.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/dev_manage.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/echo/echo_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/file_operate/file_io.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/file_operate/file_operate.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/flash_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/fmtx/fmtx_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/fmtx/qn8007/qn8007.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/fmtx/qn8027/qn8027.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/fs/fs.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/msg.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/music_player/music_decoder.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/music_player/music_player.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/music_player/warning_tone.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/pc_device/card_reader_io.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/pc_device/dev_pc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/pitchshifter/pitchshifter.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/record/rec_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/record/rec_file_op.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/record/rec_input.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/record/rec_output.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/record/rec_play.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/ui/font_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/ui/uicon_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/adc_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/alink.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/audio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/audio_stream.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/dac.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/digital_vol.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/eq.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/ladc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/pdm_link.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/sin_tab.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/src.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/audio/tone.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/board/board.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/board_init.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/clock.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/iic/iic.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/iic/iic_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/iis/wm8978.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/irq.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_ad_rtcvdd.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_ad_vddio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_encoder.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_io.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_ir.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_tch.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/key_drv/key_drv_uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/led/led.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/led/pwm_led.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/power/charge.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/power/power.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/rotate_dec.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/spdif.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/timer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/uart/uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/lcd/lcd128X64.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/lcd/lcd_disp.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/lcd/lcd_drv_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/lcd/lcd_drv_interface.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/lcd/lcd_spi.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/led/led7_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/led/led_1888_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/bt_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/echo_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/fm_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/linein_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/music_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/pc_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/rec_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/task_ui/rtc_ui.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/ui_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/ui/ui_common.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/updata.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/cpu/wdt.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_bt/task_bt.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_bt/task_bt_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_common.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_echo/task_echo.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_echo/task_echo_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/bk1080/Bk1080.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/fm_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/fm_common.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/fm_inside/fm_inside.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/qn8035/QN8035.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/rda5807/RDA5807.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/task_fm.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_fm/task_fm_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_idle/task_idle.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_idle/task_idle_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_linein/task_linein.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_linein/task_linein_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_manager.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_music/lyrics_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_music/music_decrypt.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_music/task_music.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_music/task_music_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_pc/task_pc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_pc/task_pc_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_rec/task_rec.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_rec/task_rec_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_rtc/rtc_setting.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_rtc/task_rtc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_rtc/task_rtc_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_spdif/task_spdif.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/task_manager/task_spdif/task_spdif_key.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr.o (symbol from plugin)
+ .text          0x00000000        0x0 RF.o (symbol from plugin)
+ .text          0x00000000        0x0 analog.o (symbol from plugin)
+ .text          0x00000000        0x0 btagc.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_cmds.o (symbol from plugin)
+ .text          0x00000000        0x0 device_manager.o (symbol from plugin)
+ .text          0x00000000        0x0 memory_pool.o (symbol from plugin)
+ .text          0x00000000        0x0 thread.o (symbol from plugin)
+ .text          0x00000000        0x0 utils.o (symbol from plugin)
+ .text          0x00000000        0x0 analog_bredr.o (symbol from plugin)
+ .text          0x00000000        0x0 RF_bredr.o (symbol from plugin)
+ .text          0x00000000        0x0 test_dut.o (symbol from plugin)
+ .text          0x00000000        0x0 slot_timer.o (symbol from plugin)
+ .text          0x00000000        0x0 fcc_dut.o (symbol from plugin)
+ .text          0x00000000        0x0 prbs9_table.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_bulk.o (symbol from plugin)
+ .text          0x00000000        0x0 link_controller_monitor.o (symbol from plugin)
+ .text          0x00000000        0x0 link_controller.o (symbol from plugin)
+ .text          0x00000000        0x0 au_law_codec.o (symbol from plugin)
+ .text          0x00000000        0x0 bt_esco_codec.o (symbol from plugin)
+ .text          0x00000000        0x0 cvsd_codec.o (symbol from plugin)
+ .text          0x00000000        0x0 baseband_utility.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_custom.o (symbol from plugin)
+ .text          0x00000000        0x0 device_manager.o (symbol from plugin)
+ .text          0x00000000        0x0 baseband_manager.o (symbol from plugin)
+ .text          0x00000000        0x0 Bluetooth_Authentication.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_updata.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_role.o (symbol from plugin)
+ .text          0x00000000        0x0 baseband_manager_monitor.o (symbol from plugin)
+ .text          0x00000000        0x0 bigint.o (symbol from plugin)
+ .text          0x00000000        0x0 Crypto_hash.o (symbol from plugin)
+ .text          0x00000000        0x0 hci.o (symbol from plugin)
+ .text          0x00000000        0x0 ecdh.o (symbol from plugin)
+ .text          0x00000000        0x0 hmac.o (symbol from plugin)
+ .text          0x00000000        0x0 bt_led.o (symbol from plugin)
+ .text          0x00000000        0x0 sha256.o (symbol from plugin)
+ .text          0x00000000        0x0 sync_word.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_monitor.o (symbol from plugin)
+ .text          0x00000000        0x0 endian.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_dut.o (symbol from plugin)
+ .text          0x00000000        0x0 multi_bd.o (symbol from plugin)
+ .text          0x00000000        0x0 hciattach_bt.o (symbol from plugin)
+ .text          0x00000000        0x0 l2cap.o (symbol from plugin)
+ .text          0x00000000        0x0 h4_transport.o (symbol from plugin)
+ .text          0x00000000        0x0 bt_audio.o (symbol from plugin)
+ .text          0x00000000        0x0 user_interface.o (symbol from plugin)
+ .text          0x00000000        0x0 hci.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_memory.o (symbol from plugin)
+ .text          0x00000000        0x0 l2cap_signaling.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp_media_file.o (symbol from plugin)
+ .text          0x00000000        0x0 avctp.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp_source.o (symbol from plugin)
+ .text          0x00000000        0x0 hid.o (symbol from plugin)
+ .text          0x00000000        0x0 avrcp.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp.o (symbol from plugin)
+ .text          0x00000000        0x0 hfp_ag_profile.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp_sink.o (symbol from plugin)
+ .text          0x00000000        0x0 hfp_profile.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp_tws.o (symbol from plugin)
+ .text          0x00000000        0x0 opp.o (symbol from plugin)
+ .text          0x00000000        0x0 vCard.o (symbol from plugin)
+ .text          0x00000000        0x0 avdtp.o (symbol from plugin)
+ .text          0x00000000        0x0 spp_profile.o (symbol from plugin)
+ .text          0x00000000        0x0 obex.o (symbol from plugin)
+ .text          0x00000000        0x0 sdp.o (symbol from plugin)
+ .text          0x00000000        0x0 rfcomm.o (symbol from plugin)
+ .text          0x00000000        0x0 sdp_util.o (symbol from plugin)
+ .text          0x00000000        0x0 sdp_master.o (symbol from plugin)
+ .text          0x00000000        0x0 avctp_user.o (symbol from plugin)
+ .text          0x00000000        0x0 remote_device_db.o (symbol from plugin)
+ .text          0x00000000        0x0 remote_search_info.o (symbol from plugin)
+ .text          0x00000000        0x0 bt_configs.o (symbol from plugin)
+ .text          0x00000000        0x0 edr_main.o (symbol from plugin)
+ .text          0x00000000        0x0 database_file.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_task.o (symbol from plugin)
+ .text          0x00000000        0x0 aes_ccm.o (symbol from plugin)
+ .text          0x00000000        0x0 aes_cmac.o (symbol from plugin)
+ .text          0x00000000        0x0 aes128.o (symbol from plugin)
+ .text          0x00000000        0x0 ad_parser.o (symbol from plugin)
+ .text          0x00000000        0x0 hw_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_memory.o (symbol from plugin)
+ .text          0x00000000        0x0 RF_ble.o (symbol from plugin)
+ .text          0x00000000        0x0 analog_ble.o (symbol from plugin)
+ .text          0x00000000        0x0 direct_test_dut.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_master.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_resolve_list.o (symbol from plugin)
+ .text          0x00000000        0x0 link_layer.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_white_list.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_data_extension.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_events.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_slave.o (symbol from plugin)
+ .text          0x00000000        0x0 ble_hci.o (symbol from plugin)
+ .text          0x00000000        0x0 ble_update.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_controller.o (symbol from plugin)
+ .text          0x00000000        0x0 l2cap.o (symbol from plugin)
+ .text          0x00000000        0x0 h4_transport.o (symbol from plugin)
+ .text          0x00000000        0x0 hci.o (symbol from plugin)
+ .text          0x00000000        0x0 l2cap_signaling.o (symbol from plugin)
+ .text          0x00000000        0x0 att_server.o (symbol from plugin)
+ .text          0x00000000        0x0 att_dispatch.o (symbol from plugin)
+ .text          0x00000000        0x0 sm.o (symbol from plugin)
+ .text          0x00000000        0x0 att.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_lower_transport_layer.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_network_layer.o (symbol from plugin)
+ .text          0x00000000        0x0 gatt_client.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_provision_gatt.o (symbol from plugin)
+ .text          0x00000000        0x0 ancs_client.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_bearer_adv.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_client_provision.o (symbol from plugin)
+ .text          0x00000000        0x0 uECC.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_upper_transport_layer.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_access_layer.o (symbol from plugin)
+ .text          0x00000000        0x0 mesh_pb_adv.o (symbol from plugin)
+ .text          0x00000000        0x0 bqb_client.o (symbol from plugin)
+ .text          0x00000000        0x0 user_main.o (symbol from plugin)
+ .text          0x00000000        0x0 bqb_main.o (symbol from plugin)
+ .text          0x00000000        0x0 hid_server.o (symbol from plugin)
+ .text          0x00000000        0x0 bqb_server.o (symbol from plugin)
+ .text          0x00000000        0x0 le_device_db_memory.o (symbol from plugin)
+ .text          0x00000000        0x0 aes.o (symbol from plugin)
+ .text          0x00000000        0x0 aes_tab.o (symbol from plugin)
+ .text          0x00000000        0x0 ccm_memory.o (symbol from plugin)
+ .text          0x00000000        0x0 crc16_ibm.o (symbol from plugin)
+ .text          0x00000000        0x0 rtc_driver.o (symbol from plugin)
+ .text          0x00000000        0x0 rtc_api_tools.o (symbol from plugin)
+ .text          0x00000000        0x0 power_manage_api.o (symbol from plugin)
+ .text          0x00000000        0x0 power_manage.o (symbol from plugin)
+ .text          0x00000000        0x0 pmu.o (symbol from plugin)
+ .text          0x00000000        0x0 power_set.o (symbol from plugin)
+ .text          0x00000000        0x0 p33.o (symbol from plugin)
+ .text          0x00000000        0x0 powersleep.o (symbol from plugin)
+ .text          0x00000000        0x0 power_driver.o (symbol from plugin)
+ .text          0x00000000        0x0 softpoweroff.o (symbol from plugin)
+ .text          0x00000000        0x0 power_driver_reg.o (symbol from plugin)
+ .text          0x00000000        0x0 poweroff.o (symbol from plugin)
+ .text          0x00000000        0x0 powerdown.o (symbol from plugin)
+ .text          0x00000000        0x0 irq_api.o (symbol from plugin)
+ .text          0x00000000        0x0 rand64.o (symbol from plugin)
+ .text          0x00000000        0x0 clock_api.o (symbol from plugin)
+ .text          0x00000000        0x0 efuse_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 crc_api.o (symbol from plugin)
+ .text          0x00000000        0x0 clock_driver.o (symbol from plugin)
+ .text          0x00000000        0x0 aec.o (symbol from plugin)
+ .text          0x00000000        0x0 AGC.o (symbol from plugin)
+ .text          0x00000000        0x0 aec_dbg.o (symbol from plugin)
+ .text          0x00000000        0x0 PLC.o (symbol from plugin)
+ .text          0x00000000        0x0 soft_eq.o (symbol from plugin)
+ .text          0x00000000        0x0 ladc_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 plink_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 dac_api.o (symbol from plugin)
+ .text          0x00000000        0x0 alink_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 src_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 dac_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 eq_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 linein_drv.o (symbol from plugin)
+ .text          0x00000000        0x0 circular_buf.o (symbol from plugin)
+ .text          0x00000000        0x0 lbuf.o (symbol from plugin)
+ .text          0x00000000        0x0 linked_list.o (symbol from plugin)
+ .text          0x00000000        0x0 math.o (symbol from plugin)
+ .text          0x00000000        0x0 printf-stdarg.o (symbol from plugin)
+ .text          0x00000000        0x0 resource_manage.o (symbol from plugin)
+ .text          0x00000000        0x0 run_loop.o (symbol from plugin)
+ .text          0x00000000        0x0 sys_timer.o (symbol from plugin)
+ .text          0x00000000        0x0 vsprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 BT_Calling.o (symbol from plugin)
+ .text          0x00000000        0x0 reentrant_fft.o (symbol from plugin)
+ .text          0x00000000        0x0 aecmain.o (symbol from plugin)
+ .text          0x00000000        0x0 AnalogAGC_Preprocess.o (symbol from plugin)
+ .text          0x00000000        0x0 ns_core.o (symbol from plugin)
+ .text          0x00000000        0x0 aec_core.o (symbol from plugin)
+ .text          0x00000000        0x0 aec_rdft.o (symbol from plugin)
+ .text          0x00000000        0x0 repair_core.o (symbol from plugin)
+ .text          0x00000000        0x0 syn_autolink.o (symbol from plugin)
+ .text          0x00000000        0x0 mtst_sbc.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_core.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_dec.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_tables.o (symbol from plugin)
+ .text          0x00000000        0x0 sbcdec.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_norm.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_tables.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_dec.o (symbol from plugin)
+ .text          0x00000000        0x0 mtst_sbc.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_core.o (symbol from plugin)
+ .text          0x00000000        0x0 sbc_tables.o (symbol from plugin)
+ .text          0x00000000        0x0 warning_tone.o (symbol from plugin)
+ .text          0x00000000        0x0 mtst_mp3.o (symbol from plugin)
+ .text          0x00000000        0x0 asf.o (symbol from plugin)
+ .text          0x00000000        0x0 mpeg_synth.o (symbol from plugin)
+ .text          0x00000000        0x0 layer12.o (symbol from plugin)
+ .text          0x00000000        0x0 mpegaudio.o (symbol from plugin)
+ .text          0x00000000        0x0 ID3tag_skip.o (symbol from plugin)
+ .text          0x00000000        0x0 layer3.o (symbol from plugin)
+ .text          0x00000000        0x0 huffman.o (symbol from plugin)
+ .text          0x00000000        0x0 mpeg_ctab.o (symbol from plugin)
+ .text          0x00000000        0x0 mtst_flac.o (symbol from plugin)
+ .text          0x00000000        0x0 flacdec.o (symbol from plugin)
+ .text          0x00000000        0x0 mtst_ape.o (symbol from plugin)
+ .text          0x00000000        0x0 apedec.o (symbol from plugin)
+ .text          0x00000000        0x0 testwav.o (symbol from plugin)
+ .text          0x00000000        0x0 wavdec_api.o (symbol from plugin)
+ .text          0x00000000        0x0 msadpcmdec.o (symbol from plugin)
+ .text          0x00000000        0x0 ima_adpcm.o (symbol from plugin)
+ .text          0x00000000        0x0 mtst_wma.o (symbol from plugin)
+ .text          0x00000000        0x0 wma.o (symbol from plugin)
+ .text          0x00000000        0x0 asf.o (symbol from plugin)
+ .text          0x00000000        0x0 bitstream.o (symbol from plugin)
+ .text          0x00000000        0x0 wma_tab.o (symbol from plugin)
+ .text          0x00000000        0x0 mdct.o (symbol from plugin)
+ .text          0x00000000        0x0 wma_huff.o (symbol from plugin)
+ .text          0x00000000        0x0 wmadec.o (symbol from plugin)
+ .text          0x00000000        0x0 aviobuf.o (symbol from plugin)
+ .text          0x00000000        0x0 dev_mg_api.o (symbol from plugin)
+ .text          0x00000000        0x0 mbr.o (symbol from plugin)
+ .text          0x00000000        0x0 dev_cache.o (symbol from plugin)
+ .text          0x00000000        0x0 dev_usb.o (symbol from plugin)
+ .text          0x00000000        0x0 encode.o (symbol from plugin)
+ .text          0x00000000        0x0 fs_io.o (symbol from plugin)
+ .text          0x00000000        0x0 syd_io.o (symbol from plugin)
+ .text          0x00000000        0x0 syd_file.o (symbol from plugin)
+ .text          0x00000000        0x0 fat_io.o (symbol from plugin)
+ .text          0x00000000        0x0 ff_api.o (symbol from plugin)
+ .text          0x00000000        0x0 tff.o (symbol from plugin)
+ .text          0x00000000        0x0 vm_api.o (symbol from plugin)
+ .text          0x00000000        0x0 cache_vm.o (symbol from plugin)
+ .text          0x00000000        0x0 winbond_flash.o (symbol from plugin)
+ .text          0x00000000        0x0 icache_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 spi_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 SOSIIR.o (symbol from plugin)
+ .text          0x00000000        0x0 Limiter.o (symbol from plugin)
+ .text          0x00000000        0x0 QuasiFloat.o (symbol from plugin)
+ .text          0x00000000        0x0 syn_core.o (symbol from plugin)
+ .text          0x00000000        0x0 datahandler.o (symbol from plugin)
+ .text          0x00000000        0x0 echo_deal.o (symbol from plugin)
+ .text          0x00000000        0x0 reverb_main.o (symbol from plugin)
+ .text          0x00000000        0x0 adpcmNohead.o (symbol from plugin)
+ .text          0x00000000        0x0 resample_down.o (symbol from plugin)
+ .text          0x00000000        0x0 shift_anysr.o (symbol from plugin)
+ .text          0x00000000        0x0 searching.o (symbol from plugin)
+ .text          0x00000000        0x0 sdmmc_det.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_chk_ctl.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_send_command.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_status.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_global_var.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_driver.o (symbol from plugin)
+ .text          0x00000000        0x0 sdmmc_init.o (symbol from plugin)
+ .text          0x00000000        0x0 sdmmc_host_set_bus_width.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_timeout.o (symbol from plugin)
+ .text          0x00000000        0x0 sdmmc_host_set_hispeed.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_mount.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_init.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_init.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_set_hispeed.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_send_if_cond.o (symbol from plugin)
+ .text          0x00000000        0x0 mmc_host_send_rca.o (symbol from plugin)
+ .text          0x00000000        0x0 mmc_host_set_bus_width.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_send_scr.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_switch_func.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_reset.o (symbol from plugin)
+ .text          0x00000000        0x0 mmc_host_set_hispeed.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_send_rca.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_all_send_cid.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_send_csd.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_select_card.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_sd_status.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_set_bus_width.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_app_cmd.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_wait_idle.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_reg.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_identification.o (symbol from plugin)
+ .text          0x00000000        0x0 mmc_host_send_op_cond.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_send_op_cond.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_driver.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_reg.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_global_var.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_read_remain.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_mount.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_write.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_suspend.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_unmount.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_read.o (symbol from plugin)
+ .text          0x00000000        0x0 USB_Host_dev_enum_libs.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_control_transfers.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_descriptor_parser.o (symbol from plugin)
+ .text          0x00000000        0x0 usbh_msd_enum.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_ufi_read10.o (symbol from plugin)
+ .text          0x00000000        0x0 CBW_init.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_ufi_write10.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_bulk_only_receive.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_bulk_only_transfer.o (symbol from plugin)
+ .text          0x00000000        0x0 usbh_msd_parser.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_scsi_cmd_libs.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_reg_libs.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_status.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_online.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_timeout.o (symbol from plugin)
+ .text          0x00000000        0x0 get_max_LUN.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_ctlXfer.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_host_clear_feature.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_bulk_only_send.o (symbol from plugin)
+ .text          0x00000000        0x0 dev_sd.o (symbol from plugin)
+ .text          0x00000000        0x0 en_adpcm_test.o (symbol from plugin)
+ .text          0x00000000        0x0 en_adpcm.o (symbol from plugin)
+ .text          0x00000000        0x0 mp2_test.o (symbol from plugin)
+ .text          0x00000000        0x0 mp2dsp.o (symbol from plugin)
+ .text          0x00000000        0x0 encodemp2.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_controller_interface.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_unmount.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_read_api.o (symbol from plugin)
+ .text          0x00000000        0x0 suspend_sdmmc.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_write_api.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_write.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_stop_trans.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_write_start.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_host_read.o (symbol from plugin)
+ .text          0x00000000        0x0 sd_read_start.o (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reserved_ram     0x00000100         0x00000100         rw
+ram0             0x00000200         0x00010e00
+overlay_task     0x00011000         0x00002080
+overlay_ram0     0x00013080         0x00007380
+stack_ram        0x0001a400         0x00001b00         rw
+code0            0x01000000         0x01000000         x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD obj/Release/apps/auto_test/auto_test.o
+LOAD C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+LOAD obj/Release/apps/ble_stack/user/att_send.o
+LOAD obj/Release/apps/ble_stack/user/le_client_module.o
+LOAD obj/Release/apps/ble_stack/user/le_server_module.o
+LOAD obj/Release/apps/btstack/trunk/aec_main.o
+LOAD obj/Release/apps/btstack/trunk/fcc_test.o
+LOAD obj/Release/apps/btstack/trunk/PLC_main.o
+LOAD obj/Release/apps/btstack/user/a2dp_decode.o
+LOAD obj/Release/apps/btstack/user/aec_user.o
+LOAD obj/Release/apps/btstack/user/bt_configs_user.o
+LOAD obj/Release/apps/btstack/user/bt_tws.o
+LOAD obj/Release/apps/common/audio_sync/sync_hardware.o
+LOAD obj/Release/apps/common/audio_sync/sync_software.o
+LOAD obj/Release/apps/common/audio_sync/sync_tws.o
+LOAD obj/Release/apps/common/common.o
+LOAD obj/Release/apps/common/dev_manage.o
+LOAD obj/Release/apps/common/echo/echo_api.o
+LOAD obj/Release/apps/common/file_operate/file_io.o
+LOAD obj/Release/apps/common/file_operate/file_operate.o
+LOAD obj/Release/apps/common/flash_api.o
+LOAD obj/Release/apps/common/fmtx/fmtx_api.o
+LOAD obj/Release/apps/common/fmtx/qn8007/qn8007.o
+LOAD obj/Release/apps/common/fmtx/qn8027/qn8027.o
+LOAD obj/Release/apps/common/fs/fs.o
+LOAD obj/Release/apps/common/msg.o
+LOAD obj/Release/apps/common/music_player/music_decoder.o
+LOAD obj/Release/apps/common/music_player/music_player.o
+LOAD obj/Release/apps/common/music_player/warning_tone.o
+LOAD obj/Release/apps/common/pc_device/card_reader_io.o
+LOAD obj/Release/apps/common/pc_device/dev_pc.o
+LOAD obj/Release/apps/common/pitchshifter/pitchshifter.o
+LOAD obj/Release/apps/common/record/rec_api.o
+LOAD obj/Release/apps/common/record/rec_file_op.o
+LOAD obj/Release/apps/common/record/rec_input.o
+LOAD obj/Release/apps/common/record/rec_output.o
+LOAD obj/Release/apps/common/record/rec_play.o
+LOAD obj/Release/apps/common/ui/font_api.o
+LOAD obj/Release/apps/common/ui/uicon_api.o
+LOAD obj/Release/apps/cpu/adc_api.o
+LOAD obj/Release/apps/cpu/audio/alink.o
+LOAD obj/Release/apps/cpu/audio/audio.o
+LOAD obj/Release/apps/cpu/audio/audio_stream.o
+LOAD obj/Release/apps/cpu/audio/dac.o
+LOAD obj/Release/apps/cpu/audio/digital_vol.o
+LOAD obj/Release/apps/cpu/audio/eq.o
+LOAD obj/Release/apps/cpu/audio/ladc.o
+LOAD obj/Release/apps/cpu/audio/pdm_link.o
+LOAD obj/Release/apps/cpu/audio/sin_tab.o
+LOAD obj/Release/apps/cpu/audio/src.o
+LOAD obj/Release/apps/cpu/audio/tone.o
+LOAD obj/Release/apps/cpu/board/board.o
+LOAD obj/Release/apps/cpu/board_init.o
+LOAD obj/Release/apps/cpu/clock.o
+LOAD obj/Release/apps/cpu/iic/iic.o
+LOAD obj/Release/apps/cpu/iic/iic_hw.o
+LOAD obj/Release/apps/cpu/iis/wm8978.o
+LOAD obj/Release/apps/cpu/irq.o
+LOAD obj/Release/apps/cpu/key_drv/key.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_ad_rtcvdd.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_ad_vddio.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_encoder.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_io.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_ir.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_tch.o
+LOAD obj/Release/apps/cpu/key_drv/key_drv_uart.o
+LOAD obj/Release/apps/cpu/led/led.o
+LOAD obj/Release/apps/cpu/led/pwm_led.o
+LOAD obj/Release/apps/cpu/power/charge.o
+LOAD obj/Release/apps/cpu/power/power.o
+LOAD obj/Release/apps/cpu/rotate_dec.o
+LOAD obj/Release/apps/cpu/spdif.o
+LOAD obj/Release/apps/cpu/timer.o
+LOAD obj/Release/apps/cpu/uart/uart.o
+LOAD obj/Release/apps/cpu/ui/lcd/lcd128X64.o
+LOAD obj/Release/apps/cpu/ui/lcd/lcd_disp.o
+LOAD obj/Release/apps/cpu/ui/lcd/lcd_drv_api.o
+LOAD obj/Release/apps/cpu/ui/lcd/lcd_drv_interface.o
+LOAD obj/Release/apps/cpu/ui/lcd/lcd_spi.o
+LOAD obj/Release/apps/cpu/ui/led/led7_drv.o
+LOAD obj/Release/apps/cpu/ui/led/led_1888_drv.o
+LOAD obj/Release/apps/cpu/ui/task_ui/bt_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/echo_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/fm_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/linein_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/music_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/pc_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/rec_ui.o
+LOAD obj/Release/apps/cpu/ui/task_ui/rtc_ui.o
+LOAD obj/Release/apps/cpu/ui/ui_api.o
+LOAD obj/Release/apps/cpu/ui/ui_common.o
+LOAD obj/Release/apps/cpu/updata.o
+LOAD obj/Release/apps/cpu/wdt.o
+LOAD obj/Release/apps/task_manager/task_bt/task_bt.o
+LOAD obj/Release/apps/task_manager/task_bt/task_bt_key.o
+LOAD obj/Release/apps/task_manager/task_common.o
+LOAD obj/Release/apps/task_manager/task_echo/task_echo.o
+LOAD obj/Release/apps/task_manager/task_echo/task_echo_key.o
+LOAD obj/Release/apps/task_manager/task_fm/bk1080/Bk1080.o
+LOAD obj/Release/apps/task_manager/task_fm/fm_api.o
+LOAD obj/Release/apps/task_manager/task_fm/fm_common.o
+LOAD obj/Release/apps/task_manager/task_fm/fm_inside/fm_inside.o
+LOAD obj/Release/apps/task_manager/task_fm/qn8035/QN8035.o
+LOAD obj/Release/apps/task_manager/task_fm/rda5807/RDA5807.o
+LOAD obj/Release/apps/task_manager/task_fm/task_fm.o
+LOAD obj/Release/apps/task_manager/task_fm/task_fm_key.o
+LOAD obj/Release/apps/task_manager/task_idle/task_idle.o
+LOAD obj/Release/apps/task_manager/task_idle/task_idle_key.o
+LOAD obj/Release/apps/task_manager/task_linein/task_linein.o
+LOAD obj/Release/apps/task_manager/task_linein/task_linein_key.o
+LOAD obj/Release/apps/task_manager/task_manager.o
+LOAD obj/Release/apps/task_manager/task_music/lyrics_api.o
+LOAD obj/Release/apps/task_manager/task_music/music_decrypt.o
+LOAD obj/Release/apps/task_manager/task_music/task_music.o
+LOAD obj/Release/apps/task_manager/task_music/task_music_key.o
+LOAD obj/Release/apps/task_manager/task_pc/task_pc.o
+LOAD obj/Release/apps/task_manager/task_pc/task_pc_key.o
+LOAD obj/Release/apps/task_manager/task_rec/task_rec.o
+LOAD obj/Release/apps/task_manager/task_rec/task_rec_key.o
+LOAD obj/Release/apps/task_manager/task_rtc/rtc_setting.o
+LOAD obj/Release/apps/task_manager/task_rtc/task_rtc.o
+LOAD obj/Release/apps/task_manager/task_rtc/task_rtc_key.o
+LOAD obj/Release/apps/task_manager/task_spdif/task_spdif.o
+LOAD obj/Release/apps/task_manager/task_spdif/task_spdif_key.o
+                0x00000100                . = ORIGIN (reserved_ram)
+
+.reserved_data  0x00000100       0x10
+                0x00000004                . = 0x4
+ *fill*         0x00000100        0x4 
+ *(.reserved_info)
+ .reserved_info
+                0x00000104        0xc C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x00000104                boot_arg_list
+ *(.otp_info)
+                0x00000200                . = ORIGIN (ram0)
+
+.bss            0x00000200     0xb414
+ *(.bss)
+ .bss           0x00000200     0x1e68 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .bss           0x00002068        0x4 ../include_lib/periphy_lib.a(irq_driver_asm.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(lshrdi3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(ashldi3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(divdf3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(divdi3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(divsf3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(fixdfsi.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(fixsfsi.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(floatsidf.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(floatunsidf.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(floatunsisf.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(muldf3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(muldi3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(subdf3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(udivdi3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(udivmoddi4.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(umoddi3.o)
+ .bss           0x0000206c        0x0 C:\JL\pi32\lib\libcompiler-rt.a(adddf3.o)
+ *(.ram1_bss)
+ .ram1_bss      0x0000206c     0x2af9 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x00004a58                power_hdl
+ *(.mask_ram0)
+ *fill*         0x00004b65        0x3 
+ .mask_ram0     0x00004b68       0x2c C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x00004b94                bredr_base_addr = .
+ *(.bt_classic_base)
+ .bt_classic_base
+                0x00004b94     0x14b4 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ *(.bt_sco_codec_data)
+ .bt_sco_codec_data
+                0x00006048      0x42c C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ *(.bt_classic_data)
+ .bt_classic_data
+                0x00006474      0x800 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ *(.bt_stack)
+ *(.dac_buf_sec)
+ .dac_buf_sec   0x00006c74     0x20e0 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x00007f74                read_buf
+                0x00007ff4                src_buffer
+                0x00008454                src_cbuffer
+ *(.non_volatile_ram)
+ *(.ble_bb_ram)
+ *(.ble_memory_pool)
+ *(.bt_updata_data)
+ *(.bt_lmp_mem)
+ .bt_lmp_mem    0x00008d54     0x2800 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ *(.db_memory)
+ *(.eq_buf_sec)
+ *(.sd_buf)
+ .sd_buf        0x0000b554       0x38 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x0000b554                g_sd0_var_p
+                0x0000b558                g_sd1_var_p
+                0x0000b55c                sd0_cmd_buf
+                0x0000b574                sd1_cmd_buf
+ *(.usb_buf)
+ .usb_buf       0x0000b58c       0x5c C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x0000b58c                USB_Bulk_only
+                0x0000b5cc                g_husb_read_ctl
+                0x0000b5d4                g_susb_dmabuf_p
+                0x0000b5d8                g_susb_var
+                0x0000b5dc                g_usb_detect_var
+                0x0000b5e4                g_usb_var_p
+ COMMON         0x0000b5e8       0x2c ../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o)
+                0x0000b5e8                wavheader
+
+.data           0x0000b620      0xb3e
+                0x0000b620                __begin_of_bank_overlay_0 = .
+                0x0000b620                . = ALIGN (0x4)
+ *(.data*)
+ .data          0x0000b620      0x320 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .data          0x0000b940        0x4 C:\JL\pi32\lib\libc.a(lib_a-ctype_.o)
+                0x0000b940                __ctype_ptr__
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(lshrdi3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(ashldi3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(divdf3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(divdi3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(divsf3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(fixdfsi.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(fixsfsi.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(floatsidf.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(floatunsidf.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(floatunsisf.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(muldf3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(muldi3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(subdf3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(udivdi3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(udivmoddi4.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(umoddi3.o)
+ .data          0x0000b944        0x0 C:\JL\pi32\lib\libcompiler-rt.a(adddf3.o)
+                0x0000b944                bredr_base_updata_ram1 = .
+                0x0000b944                _bredr_nv_mem_begin = .
+ *(.ram1_data)
+ .ram1_data     0x0000b944      0x13e C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x0000ba82                _bredr_nv_mem_end = .
+                0x0000ba82                _ble_nv_mem_begin = .
+ *(.bt_nv_data)
+                0x0000ba82                _ble_nv_mem_end = .
+ *(.powerdown_text)
+ *fill*         0x0000ba82        0x2 
+ .powerdown_text
+                0x0000ba84      0x490 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x0000baa4                OTP_CONTROL
+                0x0000bed8                hw_cache_idle
+                0x0000bef0                hw_cache_run
+                0x0000befc                use_rc_clk
+ *(.common)
+ .common        0x0000bf14      0x224 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x0000bffc                irq_common_handler
+                0x0000c0c4                RTC_SFR_SET
+                0x0000c0ec                adc_mux_ch_set
+                0x0000c102                set_apc_clk
+ .common        0x0000c138       0x26 ../include_lib/periphy_lib.a(irq_driver_asm.o)
+                0x0000c138                CPU_INT_DIS
+                0x0000c14a                CPU_INT_EN
+ *(.fm_code)
+                0x0000c15e                _system_cfg_begin = .
+ *(.system_cfg)
+                0x0000c15e                _system_cfg_end = .
+                0x0000c15e                __end_of_bank_overlay_0 = .
+                0x00000200                RAM_BEGIN_ADDR = ORIGIN (ram0)
+                0x0000c15e                RAM_END_ADDR = .
+                0x0000bf5e                ram_end = (. - ORIGIN (ram0))
+                0x00021b88                memcpy = 0x21b88
+                0x00021b88                all_memcpy = 0x21b88
+                0x00021b88                memmove = 0x21b88
+                0x00021ca8                memset = 0x21ca8
+                0x00021cf0                memcmp = 0x21cf0
+
+.overlay_bt     0x00011000        0x0 load address 0x00100000
+ *(.tws_sbc_rx)
+                [!provide]                PROVIDE (__load_start_overlay_bt, LOADADDR (.overlay_bt))
+                [!provide]                PROVIDE (__load_stop_overlay_bt, (LOADADDR (.overlay_bt) + SIZEOF (.overlay_bt)))
+
+.overlay_music  0x00011000      0xdf0 load address 0x00100000
+ *(.fs_fat)
+ .fs_fat        0x00011000      0xdf0 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x00011000                g_fat_f
+                0x00011b80                g_fat_fs
+                0x00011dc8                g_fat_fs_use
+                0x00011dcc                g_sector_buffer
+ *(.music_ui_mem)
+                [!provide]                PROVIDE (__load_start_overlay_music, LOADADDR (.overlay_music))
+                [!provide]                PROVIDE (__load_stop_overlay_music, (LOADADDR (.overlay_music) + SIZEOF (.overlay_music)))
+
+.overlay_fm     0x00011000       0x30 load address 0x00100df0
+ *(.fm_mem)
+ .fm_mem        0x00011000       0x30 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                [!provide]                PROVIDE (__load_start_overlay_fm, LOADADDR (.overlay_fm))
+                [!provide]                PROVIDE (__load_stop_overlay_fm, (LOADADDR (.overlay_fm) + SIZEOF (.overlay_fm)))
+
+.overlay_pc     0x00011000        0x0 load address 0x00100e20
+ *(.pc_mem)
+                [!provide]                PROVIDE (__load_start_overlay_pc, LOADADDR (.overlay_pc))
+                [!provide]                PROVIDE (__load_stop_overlay_pc, (LOADADDR (.overlay_pc) + SIZEOF (.overlay_pc)))
+
+.overlay_rtc    0x00011000        0x0 load address 0x00100e20
+                [!provide]                PROVIDE (__load_start_overlay_rtc, LOADADDR (.overlay_rtc))
+                [!provide]                PROVIDE (__load_stop_overlay_rtc, (LOADADDR (.overlay_rtc) + SIZEOF (.overlay_rtc)))
+
+.overlay_linein
+                0x00011000        0x0 load address 0x00100e20
+                [!provide]                PROVIDE (__load_start_overlay_linein, LOADADDR (.overlay_linein))
+                [!provide]                PROVIDE (__load_stop_overlay_linein, (LOADADDR (.overlay_linein) + SIZEOF (.overlay_linein)))
+
+.overlay_spdif  0x00011000     0x2000 load address 0x00100e20
+ *(.spdif_data_pool)
+ .spdif_data_pool
+                0x00011000     0x2000 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                [!provide]                PROVIDE (__load_start_overlay_spdif, LOADADDR (.overlay_spdif))
+                [!provide]                PROVIDE (__load_stop_overlay_spdif, (LOADADDR (.overlay_spdif) + SIZEOF (.overlay_spdif)))
+                0x00011000                overlay_task_begin = ORIGIN (overlay_task)
+                0x00002080                overlay_task_size = LENGTH (overlay_task)
+
+.overlay1       0x00013080     0x5000 load address 0x00200000
+ *(.bt_sbc)
+ .bt_sbc        0x00013080     0x3c00 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ *(.bt_sbc_dec)
+ .bt_sbc_dec    0x00016c80     0x1400 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x00016c80                sbc_decode_ram
+ *(.music_sbc_dec)
+ *(.tws_sync_buf_sec)
+                [!provide]                PROVIDE (__load_start_overlay1, LOADADDR (.overlay1))
+                [!provide]                PROVIDE (__load_stop_overlay1, (LOADADDR (.overlay1) + SIZEOF (.overlay1)))
+
+.overlay2       0x00013080     0x5804 load address 0x00205000
+ *(.bt_aec)
+ .bt_aec        0x00013080     0x5804 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                [!provide]                PROVIDE (__load_start_overlay2, LOADADDR (.overlay2))
+                [!provide]                PROVIDE (__load_stop_overlay2, (LOADADDR (.overlay2) + SIZEOF (.overlay2)))
+
+.overlay3       0x00013080      0x210 load address 0x0020a804
+ *(.bt_updata)
+ .bt_updata     0x00013080      0x210 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                [!provide]                PROVIDE (__load_start_overlay3, LOADADDR (.overlay3))
+                [!provide]                PROVIDE (__load_stop_overlay3, (LOADADDR (.overlay3) + SIZEOF (.overlay3)))
+
+.overlay4       0x00013080     0x7008 load address 0x0020aa14
+ *(.music_mem)
+ .music_mem     0x00013080        0x8 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ *(.fs_syd)
+ *(.music_mp3_dec)
+ .music_mp3_dec
+                0x00013088     0x7000 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                [!provide]                PROVIDE (__load_start_overlay4, LOADADDR (.overlay4))
+                [!provide]                PROVIDE (__load_stop_overlay4, (LOADADDR (.overlay4) + SIZEOF (.overlay4)))
+
+.overlay5       0x00013080        0x0 load address 0x00211a1c
+ *(.rec_mem_pool)
+ *(.rec_fat)
+                [!provide]                PROVIDE (__load_start_overlay5, LOADADDR (.overlay5))
+                [!provide]                PROVIDE (__load_stop_overlay5, (LOADADDR (.overlay5) + SIZEOF (.overlay5)))
+
+.overlay6       0x00013080     0x7000 load address 0x00211a1c
+ *(.spdif_mem_pool)
+ .spdif_mem_pool
+                0x00013080     0x7000 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                [!provide]                PROVIDE (__load_start_overlay6, LOADADDR (.overlay6))
+                [!provide]                PROVIDE (__load_stop_overlay6, (LOADADDR (.overlay6) + SIZEOF (.overlay6)))
+                0x0001a400                . = ORIGIN (stack_ram)
+
+.stack_data     0x0001a400     0x1b00
+                0x0001a400                STACK_START = .
+ *(.stack)
+ .stack         0x0001a400     0x1b00 ../include_lib/periphy_lib.a(startup.o)
+                0x0001bee0                _stack_usp
+                0x0001bf00                _stack_ssp
+                0x0001bf00                STACK_END = .
+                0x01000000                . = ORIGIN (code0)
+
+.text           0x01000000    0x52ae2
+ *startup.o(.text)
+ .text          0x01000000       0xb8 ../include_lib/periphy_lib.a(startup.o)
+                0x01000000                _start
+                0x0100008a                the_exception_isr
+ *(.const_tab)
+ .const_tab     0x010000b8        0xc C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x010000b8                enc_ops_list
+ *(.ver_magic)
+ *(.version)
+ .version       0x010000c4        0xe ../include_lib/bluetooth_lib.a(version.o)
+ .version       0x010000d2        0xf ../include_lib/bluetooth/aes_lib_pi32.a(version.o)
+ .version       0x010000e1       0x1e ../include_lib/bluetooth/crc_ibm_lib.a(version.o)
+ .version       0x010000ff       0x14 ../include_lib/bluetooth/msbc_enc_dec.a(version.o)
+ *(.text* .rodata*)
+ *fill*         0x01000113        0x1 
+ .text          0x01000114    0x42a34 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x010057d0                stack_detect_init
+                0x0100bc70                main
+                0x0100bdb0                exception_isr_handler
+                0x0100bdbc                app_irq_init
+                0x0102fdb6                sbc_crc8_u
+                0x01030604                sbc_fill_buf_u
+ *fill*         0x01042b48        0x8 
+ .rodata        0x01042b50     0xb914 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01046524                sbc_proto4_m0
+                0x01046574                sbc_proto4_m1
+                0x010465c4                sbc_proto8_m0
+                0x01046664                sbc_proto8_m1
+                0x01046704                syn_matrix4
+                0x01046784                syn_matrix8
+                0x01046984                sbc_div_new_table
+                0x010493e8                counts_3970
+                0x01049414                counts_diff_3970
+                0x010494c0                counts_3980
+                0x010494ec                counts_diff_3980
+ .rodata.str1.1
+                0x0104e464      0x499 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                                0x519 (size before relaxing)
+ *fill*         0x0104e8fd        0x3 
+ .rodata.cst16  0x0104e900       0xb0 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .rodata.cst32  0x0104e9b0      0x140 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .rodata.cst8   0x0104eaf0        0x8 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .rodata.str2.2
+                0x0104eaf8       0x10 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .rodata.cst4   0x0104eb08        0x8 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .rodata.str4.4
+                0x0104eb10      0x100 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+ .text          0x0104ec10       0xb2 ../include_lib/bluetooth_lib.a(bigint_mul_core_bc51.o)
+                0x0104ec10                _bigint_mul_core_bc51
+ *fill*         0x0104ecc2        0x2 
+ .text          0x0104ecc4        0x0 ../include_lib/bluetooth_lib.a(version.o)
+ .text          0x0104ecc4        0x0 ../include_lib/bluetooth/aes_lib_pi32.a(version.o)
+ .text          0x0104ecc4        0x0 ../include_lib/bluetooth/crc_ibm_lib.a(version.o)
+ .text          0x0104ecc4      0x1e0 ../include_lib/bluetooth/msbc_enc_dec.a(msbc_dec.o)
+                0x0104ecc4                msbc_get_bits
+                0x0104ed0c                msbc_dec_loop
+ .text          0x0104eea4      0x14e ../include_lib/bluetooth/msbc_enc_dec.a(msbc_fun.o)
+                0x0104eea4                sbc_analyze_eight_simd
+                0x0104ef0a                msbc_synthesize_eight
+ *fill*         0x0104eff2        0x2 
+ .text          0x0104eff4       0x88 ../include_lib/bluetooth/msbc_enc_dec.a(mtst_sbc.o)
+                0x0104eff4                need_msbce_size
+                0x0104effa                msbce_init
+                0x0104f064                msbce_run
+                0x0104f068                msbcd_run
+                0x0104f074                get_msbc_ops
+ .rodata        0x0104f07c       0x10 ../include_lib/bluetooth/msbc_enc_dec.a(mtst_sbc.o)
+                0x0104f07c                msbc_enc_dec_ops
+ .text          0x0104f08c      0x35a ../include_lib/bluetooth/msbc_enc_dec.a(sbc_core.o)
+                0x0104f08c                sbc_calculate_bits
+                0x0104f1cc                sbc_analyze_audio
+                0x0104f234                PUT_BITS
+                0x0104f266                FLUSH_BITS
+                0x0104f28e                msbc_pack_frame
+ *fill*         0x0104f3e6        0x2 
+ .rodata        0x0104f3e8       0x20 ../include_lib/bluetooth/msbc_enc_dec.a(sbc_core.o)
+                0x0104f3e8                sbc_offset8_16k
+ .text          0x0104f408       0x6e ../include_lib/bluetooth/msbc_enc_dec.a(sbc_enc.o)
+                0x0104f408                msbc_enc_loop
+ *fill*         0x0104f476        0x2 
+ .text          0x0104f478      0x13c ../include_lib/bluetooth/msbc_enc_dec.a(sbc_primitives.o)
+                0x0104f478                sbc_enco_input_s8
+                0x0104f596                msbc_synthesize_audio
+ .rodata        0x0104f5b4       0x40 ../include_lib/bluetooth/msbc_enc_dec.a(sbc_primitives.o)
+                0x0104f5b4                input8_idx
+ .text          0x0104f5f4        0x0 ../include_lib/bluetooth/msbc_enc_dec.a(sbc_tables.o)
+ .rodata        0x0104f5f4      0x480 ../include_lib/bluetooth/msbc_enc_dec.a(sbc_tables.o)
+                0x0104f5f4                analysis_consts_fixed8_simd_even
+                0x0104f834                analysis_consts_fixed8_simd_odd
+ .text          0x0104fa74        0x0 ../include_lib/bluetooth/msbc_enc_dec.a(version.o)
+ .text          0x0104fa74        0x0 ../include_lib/periphy_lib.a(irq_driver_asm.o)
+ .text          0x0104fa74      0x1e0 ../include_lib/aec/libBtCalling.a(rfft_afterprocess_asm.o)
+                0x0104fa74                rfft_afterprocess_asm
+                0x0104fb62                rifft_preprocess_asm
+ .text          0x0104fc54      0x32a ../include_lib/dec/sbc_dec_lib.a(sbc_fun.o)
+                0x0104fc54                sbc_synthesize_four_u
+                0x0104fd42                sbc_synthesize_eight_u
+                0x0104fe28                get_dec_bits_u
+                0x0104fe76                sbc_dec_requantize
+ *fill*         0x0104ff7e        0x2 
+ .text          0x0104ff80       0x90 ../include_lib/dec/mp3_dec_lib.a(mp3_asm_subfun.o)
+                0x0104ff80                III_freqinver_asm
+                0x0104ff96                III_overlap_asm
+                0x0104ffc2                imdct36_sub_asm
+ .text          0x01050010        0x0 ../include_lib/dec/ape_dec_lib.a(dv_ape.o)
+ .text          0x01050010        0x0 C:\JL\pi32\lib\libc.a(lib_a-ctype_.o)
+ .rodata        0x01050010      0x281 C:\JL\pi32\lib\libc.a(lib_a-ctype_.o)
+                0x01050190                _ctype_
+ *fill*         0x01050291        0x3 
+ .text          0x01050294       0x3e C:\JL\pi32\lib\libc.a(lib_a-memcmp.o)
+ *fill*         0x010502d2        0x2 
+ .text          0x010502d4      0x11a C:\JL\pi32\lib\libc.a(lib_a-memcpy.o)
+ *fill*         0x010503ee        0x2 
+ .text          0x010503f0       0x48 C:\JL\pi32\lib\libc.a(lib_a-memset.o)
+ .text          0x01050438       0x44 C:\JL\pi32\lib\libc.a(lib_a-strcasecmp.o)
+                0x01050438                strcasecmp
+ .text          0x0105047c       0x16 C:\JL\pi32\lib\libc.a(lib_a-strchr.o)
+                0x0105047c                strchr
+ *fill*         0x01050492        0x2 
+ .text          0x01050494       0x16 C:\JL\pi32\lib\libc.a(lib_a-strcmp.o)
+                0x01050494                strcmp
+ *fill*         0x010504aa        0x2 
+ .text          0x010504ac       0x10 C:\JL\pi32\lib\libc.a(lib_a-strcpy.o)
+                0x010504ac                strcpy
+ .text          0x010504bc        0xc C:\JL\pi32\lib\libc.a(lib_a-strlen.o)
+                0x010504bc                strlen
+ .text          0x010504c8       0x22 C:\JL\pi32\lib\libc.a(lib_a-strncmp.o)
+                0x010504c8                strncmp
+ *fill*         0x010504ea        0x2 
+ .text          0x010504ec       0x2a C:\JL\pi32\lib\libc.a(lib_a-strstr.o)
+                0x010504ec                strstr
+ *fill*         0x01050516        0x2 
+ .text          0x01050518       0x10 C:\JL\pi32\lib\libcompiler-rt.a(lshrdi3.o)
+                0x01050518                __lshrdi3
+ .text          0x01050528       0x10 C:\JL\pi32\lib\libcompiler-rt.a(ashldi3.o)
+                0x01050528                __ashldi3
+ .text          0x01050538      0x33c C:\JL\pi32\lib\libcompiler-rt.a(divdf3.o)
+                0x01050538                __divdf3
+ .text          0x01050874       0x32 C:\JL\pi32\lib\libcompiler-rt.a(divdi3.o)
+                0x01050874                __divdi3
+ *fill*         0x010508a6        0x2 
+ .text          0x010508a8      0x180 C:\JL\pi32\lib\libcompiler-rt.a(divsf3.o)
+                0x010508a8                __divsf3
+ .text          0x01050a28       0x50 C:\JL\pi32\lib\libcompiler-rt.a(fixdfsi.o)
+                0x01050a28                __fixdfsi
+ .text          0x01050a78       0x4c C:\JL\pi32\lib\libcompiler-rt.a(fixsfsi.o)
+                0x01050a78                __fixsfsi
+ .text          0x01050ac4       0x40 C:\JL\pi32\lib\libcompiler-rt.a(floatsidf.o)
+                0x01050ac4                __floatsidf
+ .text          0x01050b04       0x30 C:\JL\pi32\lib\libcompiler-rt.a(floatunsidf.o)
+                0x01050b04                __floatunsidf
+ .text          0x01050b34       0x56 C:\JL\pi32\lib\libcompiler-rt.a(floatunsisf.o)
+                0x01050b34                __floatunsisf
+ *fill*         0x01050b8a        0x2 
+ .text          0x01050b8c      0x2d0 C:\JL\pi32\lib\libcompiler-rt.a(muldf3.o)
+                0x01050b8c                __muldf3
+ .text          0x01050e5c       0x12 C:\JL\pi32\lib\libcompiler-rt.a(muldi3.o)
+                0x01050e5c                __muldi3
+ *fill*         0x01050e6e        0x2 
+ .text          0x01050e70        0x8 C:\JL\pi32\lib\libcompiler-rt.a(subdf3.o)
+                0x01050e70                __subdf3
+ .text          0x01050e78       0x10 C:\JL\pi32\lib\libcompiler-rt.a(udivdi3.o)
+                0x01050e78                __udivdi3
+ .text          0x01050e88       0x8e C:\JL\pi32\lib\libcompiler-rt.a(udivmoddi4.o)
+                0x01050e88                __udivmoddi4
+ *fill*         0x01050f16        0x2 
+ .text          0x01050f18       0x14 C:\JL\pi32\lib\libcompiler-rt.a(umoddi3.o)
+                0x01050f18                __umoddi3
+ .text          0x01050f2c      0x344 C:\JL\pi32\lib\libcompiler-rt.a(adddf3.o)
+                0x01050f2c                __adddf3
+                0x01051270                . = ALIGN (0x4)
+                0x01051270                _LOAD_CACHE_START = .
+                0x01051270                _VM_CODE_START = .
+ *(.vm)
+ .vm            0x01051270      0x56c C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x010512d0                spiflash_continuous_read_mode_reset
+                0x01051374                spiflash_send_addr
+                0x01051408                spiflash_wait_ok
+                0x01051440                spiflash_write
+                0x01051504                spiflash_recover_continuous_read_mode
+                0x01051608                spiflash_eraser
+                0x010516b6                get_vm_statu
+                0x010516c0                vm_bytecmp
+                0x0105173a                spiflash_send_write_enable
+                0x010517dc                _VM_CODE_END = .
+                0x010517dc                _AUDIO_CODE_START = .
+ *(.audio_text)
+ .audio_text    0x010517dc      0x614 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x010517dc                cbuf_read
+                0x0105184a                abs
+                0x01051852                cbuf_is_write_able
+                0x010518d0                audio_read
+                0x010518e0                audio_read_vm
+                0x0105194c                dac_different_output
+                0x0105197e                dac_hp_en
+                0x01051990                dac_digit_energy_value
+                0x010519ec                digital_vol_ctrl
+                0x01051ad4                dac_isr_cb
+                0x01051c20                eq_run
+                0x01051c2c                is_dac_mute
+                0x01051c3c                dac_digital_lr_add
+                0x01051c60                dac_digital_lr_sub
+                0x01051c84                dac_get_samplerate
+                0x01051d0c                irq_audio_isr
+                0x01051d54                eq_drv_run
+                0x01051df0                _AUDIO_CODE_END = .
+                0x01051df0                _LOAD_CACHE_END = .
+                0x01051df0                . = ALIGN (0x4)
+                0x01051df0                sys_critical_handler_begin = .
+ *(.sys_critical_txt)
+                0x01051df0                sys_critical_handler_end = .
+                0x01051df0                lmp_hci_handler_begin = .
+ *(.lmp_hci_handler)
+ .lmp_hci_handler
+                0x01051df0       0x48 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051df0                device_manager_hci_handler
+                0x01051e08                lmp_def_hci_handler
+                0x01051e20                slave_hci_cmd_handler
+                0x01051e38                lmp_hci_handler_end = .
+                0x01051e38                a2dp_sink_media_probe_begin = .
+ *(.a2dp_sink_media_probe)
+ .a2dp_sink_media_probe
+                0x01051e38       0x20 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051e38                a2dp_sbc_probe
+                0x01051e58                a2dp_sink_media_probe_end = .
+                0x01051e58                a2dp_sink_media_codec_begin = .
+ *(.a2dp_sink_media_codec)
+ .a2dp_sink_media_codec
+                0x01051e58       0x30 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051e58                aac_sink_codec
+                0x01051e70                sbc_sink_codec
+                0x01051e88                a2dp_sink_media_codec_end = .
+                0x01051e88                a2dp_source_media_codec_begin = .
+ *(.a2dp_source_media_codec)
+ .a2dp_source_media_codec
+                0x01051e88       0x18 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051e88                a2dp_source_codec
+                0x01051ea0                a2dp_source_media_codec_end = .
+                0x01051ea0                a2dp_event_handler_begin = .
+ *(.a2dp_event_handler)
+ .a2dp_event_handler
+                0x01051ea0       0x70 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051ea0                avctp_a2dp_event_handler
+                0x01051ebc                a2dp_source_event_handler
+                0x01051ed8                a2dp_sink_event_handler
+                0x01051ef4                probe_source_event_handler
+                0x01051f10                a2dp_event_handler_end = .
+                0x01051f10                loop_detect_handler_begin = .
+ *(.loop_detect_region)
+ .loop_detect_region
+                0x01051f10       0x70 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051f10                delay_2m_cnt
+                0x01051f18                device_detect_loop
+                0x01051f20                half_second_det
+                0x01051f28                adc_scan_detect
+                0x01051f30                dac_delay
+                0x01051f38                dac_fade_loop
+                0x01051f40                key_scan_det
+                0x01051f48                encoder_scan_loop
+                0x01051f50                dcin_detect_loop
+                0x01051f58                ad_check_voltage_detect
+                0x01051f60                battery_detect
+                0x01051f68                display_battery_value_detect
+                0x01051f70                power_on_cnt_detect
+                0x01051f78                sys_timer_handler
+                0x01051f80                loop_detect_handler_end = .
+                0x01051f80                loop_ui_handler_begin = .
+ *(.loop_ui_region)
+ .loop_ui_region
+                0x01051f80        0x8 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051f80                led_detect
+                0x01051f88                loop_ui_handler_end = .
+                0x01051f88                sync_time_detect_handler_begin = .
+ *(.sync_time_loop_detect_region)
+ .sync_time_loop_detect_region
+                0x01051f88        0x8 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051f88                sys_timer_us_handler
+                0x01051f90                sync_time_detect_handler_end = .
+                0x01051f90                clock_switcher_begin = .
+ *(.clock_switch.fun)
+                0x01051f90                clock_switcher_end = .
+                0x01051f90                bt_sleep_begin = .
+ *(.bt_sleep)
+ .bt_sleep      0x01051f90       0x3c C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051f90                bt_suspend_avctp_resumeavctp_release
+                0x01051f9c                bt_suspend_hid_resumehid_release
+                0x01051fa8                bt_suspend_a2dp_resumea2dp_release
+                0x01051fb4                bt_suspend_hfp_resumehfp_release
+                0x01051fc0                bt_suspend_user_cmd_loop_resumeuser_cmd_loop_release
+                0x01051fcc                bt_sleep_end = .
+                0x01051fcc                lmp_release_begin = .
+ *(.lmp_release)
+ .lmp_release   0x01051fcc        0x4 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051fcc                __release_only_close_edr_hardware
+                0x01051fd0                lmp_release_end = .
+                0x01051fd0                . = ((. + 0x3) & 0xfffffffc)
+                0x01051fd0                _sys_initcall_begin = .
+ *(.sys.initcall)
+ .sys.initcall  0x01051fd0       0x1c C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051fd0                __initcall_fs_init_all
+                0x01051fd4                __initcall_audio_init
+                0x01051fd8                __initcall_key_init
+                0x01051fdc                __initcall_encoder_key_init
+                0x01051fe0                __initcall___led_fre_set
+                0x01051fe4                __initcall_ad_check_voltage_io_init
+                0x01051fe8                __initcall_irtc_hw_init
+                0x01051fec                _sys_initcall_end = .
+ *(.ble)
+ .ble           0x01051fec       0x10 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051fec                __h4_close
+                0x01051ff0                __h4_can_send_packet_now
+                0x01051ff4                __h4_send_packet
+                0x01051ff8                __h4_packet_handler
+ *(.bredr)
+ *(.bt_power)
+ *(.poweroff_flash)
+ .poweroff_flash
+                0x01051ffc        0x4 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01051ffc                IS_POWEROFF
+                0x01052000                ble_text_begin = .
+ *(.ble_irq_text)
+                0x01052000                ble_text_end = .
+                0x01052000                bredr_text_begin = .
+ *(.bredr_irq_text)
+ .bredr_irq_text
+                0x01052000       0xa0 C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x01052060                bt_clkn_handler
+                0x010520a0                bredr_text_end = .
+ *(.sys_cfg)
+ *(.ape_text)
+ .ape_text      0x010520a0      0x418 ../include_lib/dec/ape_dec_lib.a(dv_ape.o)
+                0x010520b0                do_apply_filter
+                0x01052314                predictor_decode_stereo
+                0x010524b8                poweroff_text_begin = .
+ *(.poweroff_text)
+ .poweroff_text
+                0x010524b8      0x62a C:\Users\ADMINI~1\AppData\Local\Temp\lto-llvm-0559a4.o
+                0x010524b8                irq_index_to_prio
+                0x0105258e                irq_handler_register
+                0x010525de                irq_handler_unregister
+                0x01052604                delay
+                0x0105260e                irq_set_pending
+                0x01052634                irq_global_enable
+                0x0105263c                irq_init
+                0x0105265c                irq_index_tab_reg
+                0x0105266c                irq_global_disable
+                0x01052674                irq_clear_all_ie
+                0x0105267c                radio_set_eninv_odd_open
+                0x010526a4                radio_set_eninv_even_open
+                0x010526cc                radio_set_eninv
+                0x01052718                irq_read
+                0x01052730                irq_disable
+                0x01052758                irq_enable
+                0x01052776                slot_timer_init
+                0x0105279c                rf_reset_dual_mode
+                0x010527c0                bd_freq_table_init
+                0x01052808                radio_set_eninv_open
+                0x010528ac                slot_timer_remove
+                0x010528e4                slot_timer_register_init
+                0x01052980                slot_timer_register
+                0x010529e8                check_slot_timer_handler
+                0x01052abc                error_isr_handler
+                0x01052abe                irq_set_prio
+                0x01052ada                irq_sys_disable
+                0x01052ade                irq_sys_enable
+                0x01052ae2                poweroff_text_end = .
+                0x01052ae2                text_end = .
+
+.version
+ *(.ver_magic_start)
+ *(.version)
+ *(.ver_magic_end)
+                0x01fffe00                config_info_begin = ((ORIGIN (code0) + LENGTH (code0)) - 0x200)
+                0x000001e0                config_info_size = 0x1e0
+                0x01ffff80                tone_info_base = ((ORIGIN (code0) + LENGTH (code0)) - 0x80)
+                0x01000000                code_begin_addr = ORIGIN (code0)
+                0x00052ae2                text_size = SIZEOF (.text)
+                0x0000b620                data_addr = ADDR (.data)
+                0x01052ae2                data_begin = text_end
+                0x00000b3e                data_size = SIZEOF (.data)
+                0x00000200                bss_begin = 0x200
+                0x0000b614                bss_size = (SIZEOF (.bss) + 0x200)
+                0x01000000                decompressed_dict_begin = ORIGIN (code0)
+START GROUP
+LOAD ../include_lib/bluetooth_lib.a
+LOAD ../include_lib/bluetooth/aes_lib_pi32.a
+LOAD ../include_lib/bluetooth/crc_ibm_lib.a
+LOAD ../include_lib/bluetooth/msbc_enc_dec.a
+LOAD ../include_lib/rtc_lib.a
+LOAD ../include_lib/power_manage_lib.a
+LOAD ../include_lib/periphy_lib.a
+LOAD ../include_lib/aec_lib.a
+LOAD ../include_lib/audio_lib.a
+LOAD ../include_lib/common_lib.a
+LOAD ../include_lib/font_lib.a
+LOAD ../include_lib/uicon_lib.a
+LOAD ../include_lib/aec/libBtCalling.a
+LOAD ../include_lib/aec/libDAGC.a
+LOAD ../include_lib/aec/libSpeech_dection.a
+LOAD ../include_lib/aec/lib_esco_repair.a
+LOAD ../include_lib/aec/lib_esco_sync.a
+LOAD ../include_lib/dec/sbc_dec_lib.a
+LOAD ../include_lib/dec/udsbc_enc_lib.a
+LOAD ../include_lib/dec/udsbc_dec_lib.a
+LOAD ../include_lib/dec/sbc_dec_lib_for_EngDect.a
+LOAD ../include_lib/dec/wt_dec_lib.a
+LOAD ../include_lib/dec/mp3_dec_lib.a
+LOAD ../include_lib/dec/flac_dec_lib.a
+LOAD ../include_lib/dec/ape_dec_lib.a
+LOAD ../include_lib/dec/wav_dec_lib.a
+LOAD ../include_lib/dec/wma_dec_lib.a
+LOAD ../include_lib/dec/dts_dec_lib.a
+LOAD ../include_lib/dec/aac_dec_lib.a
+LOAD ../include_lib/dec/amr_dec_lib.a
+LOAD ../include_lib/dev_mg_lib.a
+LOAD ../include_lib/encode/lib_adpcm_encode.a
+LOAD ../include_lib/encode/lib_mp2_encode.a
+LOAD ../include_lib/encode_lib.a
+LOAD ../include_lib/mcpwm_lib.a
+LOAD ../include_lib/fs_lib.a
+LOAD ../include_lib/fm_lib.a
+LOAD ../include_lib/speed_pitch/lib_pitch_speed.a
+LOAD ../include_lib/flash_lib.a
+LOAD ../include_lib/audio/libSOSIIR.a
+LOAD ../include_lib/audio/libLimiter.a
+LOAD ../include_lib/audio/lib_sync_frame.a
+LOAD ../include_lib/echo_lib.a
+LOAD ../include_lib/echo/lib_audio_reverb_H.a
+LOAD ../include_lib/echo/lib_audio_howlingsupression.a
+LOAD ../include_lib/sdmmc_lib.a
+LOAD ../include_lib/usb_lib.a
+LOAD ../include_lib/usb/lib_usb_syn.a
+END GROUP
+LOAD C:\JL\pi32\lib\libc.a
+LOAD C:\JL\pi32\lib\libm.a
+LOAD C:\JL\pi32\lib\libcompiler-rt.a
+OUTPUT(download\post_build\flash\sdk.exe elf32-pi32)
+
+.debug_info     0x00000000      0x9ea
+ .debug_info    0x00000000      0x154 ../include_lib/bluetooth_lib.a(bigint_mul_core_bc51.o)
+ .debug_info    0x00000154      0x1d5 ../include_lib/periphy_lib.a(startup.o)
+ .debug_info    0x00000329      0x1c2 ../include_lib/periphy_lib.a(irq_driver_asm.o)
+ .debug_info    0x000004eb      0x23b ../include_lib/aec/libBtCalling.a(rfft_afterprocess_asm.o)
+ .debug_info    0x00000726      0x2c4 ../include_lib/dec/mp3_dec_lib.a(mp3_asm_subfun.o)
+
+.debug_abbrev   0x00000000       0xc8
+ .debug_abbrev  0x00000000       0x28 ../include_lib/bluetooth_lib.a(bigint_mul_core_bc51.o)
+ .debug_abbrev  0x00000028       0x28 ../include_lib/periphy_lib.a(startup.o)
+ .debug_abbrev  0x00000050       0x28 ../include_lib/periphy_lib.a(irq_driver_asm.o)
+ .debug_abbrev  0x00000078       0x28 ../include_lib/aec/libBtCalling.a(rfft_afterprocess_asm.o)
+ .debug_abbrev  0x000000a0       0x28 ../include_lib/dec/mp3_dec_lib.a(mp3_asm_subfun.o)
+
+.debug_aranges  0x00000000       0xa0
+ .debug_aranges
+                0x00000000       0x20 ../include_lib/bluetooth_lib.a(bigint_mul_core_bc51.o)
+ .debug_aranges
+                0x00000020       0x20 ../include_lib/periphy_lib.a(startup.o)
+ .debug_aranges
+                0x00000040       0x20 ../include_lib/periphy_lib.a(irq_driver_asm.o)
+ .debug_aranges
+                0x00000060       0x20 ../include_lib/aec/libBtCalling.a(rfft_afterprocess_asm.o)
+ .debug_aranges
+                0x00000080       0x20 ../include_lib/dec/mp3_dec_lib.a(mp3_asm_subfun.o)
+
+.debug_line     0x00000000      0x417
+ .debug_line    0x00000000       0x81 ../include_lib/bluetooth_lib.a(bigint_mul_core_bc51.o)
+ .debug_line    0x00000081       0x2a ../include_lib/bluetooth_lib.a(version.o)
+ .debug_line    0x000000ab       0xd3 ../include_lib/periphy_lib.a(startup.o)
+ .debug_line    0x0000017e       0xad ../include_lib/periphy_lib.a(irq_driver_asm.o)
+ .debug_line    0x0000022b      0x12b ../include_lib/aec/libBtCalling.a(rfft_afterprocess_asm.o)
+ .debug_line    0x00000356       0xc1 ../include_lib/dec/mp3_dec_lib.a(mp3_asm_subfun.o)

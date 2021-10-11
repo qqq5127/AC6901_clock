@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="task_manager\task_bt\task_bt.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48812" topLine="1428" />
+		</Cursor>
+	</File>
+	<File name="task_manager\task_fm\task_fm.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20715" topLine="692" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\led\led7_drv.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7610" topLine="226" />
+		</Cursor>
+	</File>
+	<File name="include\common\msg.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5254" topLine="247" />
+		</Cursor>
+	</File>
+	<File name="common\music_player\music_player.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="29629" topLine="1155" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ui\ui_api.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5581" topLine="239" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
